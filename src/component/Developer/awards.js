@@ -2,10 +2,10 @@ import React, { Component } from "react";
 
 class awards extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     return (
       <React.Fragment>
-        {jhonData.awards.map((item) => {
+        {isacData.awards.map((item) => {
           return (
             <div className="col-lg-4 col-sm-6" key={item.id}>
               <div className="awards_item wow fadeInUp">

@@ -11,23 +11,23 @@ import MapContainer from './component/Map';
 import Contact from './component/Contact';
 import Skill from './component/Skill/Skill';
 import Footer from './component/Footer';
-import jhonData from './component/jhonData';
+import isacData from './component/isacData';
 
 
 export const Home2 = () => (
   <div className="body_wrapper">
       <Navbar mContainer="custome_container" mainlogo="logo2.png" stickylogo="logo.png"/>
-      <TypeBanner jhonData={jhonData}/>
-      <About aClass="about_area" jhonData={jhonData}/>
-      <Service wClass="work_area" jhonData={jhonData}/>
+      <TypeBanner isacData={isacData}/>
+      <About aClass="about_area" isacData={isacData}/>
+      <Service wClass="work_area" isacData={isacData}/>
       <Portfolio/>
       <Skill/>
       <Testimonial/>
       <Clientslogo/>
       <Blog/>
       <MapContainer/>
-      <Contact jhonData={jhonData}/>
-      <Footer jhonData={jhonData}/>
+      <Contact isacData={isacData}/>
+      <Footer isacData={isacData}/>
   </div>
 )
 

@@ -9,19 +9,19 @@ import BlogTwo from './component/Blog/BlogTwo';
 import ContactTwo from './component/ContactTwo';
 import SkillTwo from './component/Skill/SkillTwo';
 import FooterTwo from './component/FooterTwo';
-import jhonData from './component/jhonData';
+import isacData from './component/isacData';
 
 export const Homefrelencer = () => (
   <div className="body_wrapper">
     <NavbarTwo mClass="menu_two" mainlogo="logo-blue.png" stickylogo="logo-blue.png"/>  
-    <FBanner jhonData={jhonData}/>
+    <FBanner isacData={isacData}/>
     <ServiceTwo rowFlex="flex-row-reverse"/>
     <PortfolioSlider/>
     <SkillTwo/>
     <TestimonialTwo/>
     <ClientslogoTwo/>
     <BlogTwo/>
-    <ContactTwo jhonData={jhonData}/>
-    <FooterTwo jhonData={jhonData}/>
+    <ContactTwo isacData={isacData}/>
+    <FooterTwo isacData={isacData}/>
   </div>
 )

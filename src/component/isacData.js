@@ -1,4 +1,4 @@
-const jhonData = {
+const isacData = {
   name: "ISAC — Poziționare Comportamentală Contextuală™",
   // name2: "Richard Tea.",
   //name3: "Alexa Johnson",
@@ -176,4 +176,4 @@ const jhonData = {
   contacttitle: "Contact Form",
 };
 
-export default jhonData;
+export default isacData;

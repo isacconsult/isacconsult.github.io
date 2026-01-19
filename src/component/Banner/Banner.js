@@ -5,7 +5,7 @@ const image = require('../../image/profile.jpg');
 
 class Banner extends Component {
     render(){
-        let jhonData = this.props.jhonData;
+        let isacData = this.props.isacData;
         return(
             <section id="home">
                 <Parallax bgImage={image} strength={500} className="banner_area">
@@ -15,7 +15,7 @@ class Banner extends Component {
                                 <h5>   </h5>
                             </Reveal>
                             <Reveal effect="fadeInUp" duration={1500}>
-                                <h2>{jhonData.name}</h2>
+                                <h2>{isacData.name}</h2>
                             </Reveal>
                             <h4 className="wow fadeInUp anoimated">Nu vorbim despre tine.
                                 Vorbim despre tipologia celuilalt.</h4>
@@ -24,7 +24,7 @@ class Banner extends Component {
                             <Fade  bottom cascade duration={1000}>
                                 <ul className="list_style social_icon">
                                 {
-                                    jhonData.socialLinks && jhonData.socialLinks.map(item =>{
+                                    isacData.socialLinks && isacData.socialLinks.map(item =>{
                                     return(
                                             <li key={item.name}>
                                                 <a  href={item.url}><i className={item.className}></i></a> 

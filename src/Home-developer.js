@@ -10,7 +10,7 @@ import DAwards from "./component/Developer/DeveloperAwards";
 import DBlog from "./component/Blog/DeveloperBlog";
 import ContactTwo from "./component/ContactTwo";
 import FooterTwo from "./component/FooterTwo";
-import jhonData from "./component/jhonData";
+import isacData from "./component/isacData";
 
 export const HomeDeveloper = () => (
   <div className="body_wrapper">
@@ -20,15 +20,15 @@ export const HomeDeveloper = () => (
       mainlogo="logo2.png"
       stickylogo="logo.png"
     />
-    <DBanner jhonData={jhonData} />
-    <DAbout jhonData={jhonData} />
+    <DBanner isacData={isacData} />
+    <DAbout isacData={isacData} />
     <DLogo />
     <DPortfolio />
     <DTestimonial />
     <DExprience />
-    <DAwards jhonData={jhonData} />
+    <DAwards isacData={isacData} />
     <DBlog />
-    <ContactTwo secClass="dContact" jhonData={jhonData} />
-    <FooterTwo className="d_footer_area" jhonData={jhonData} />
+    <ContactTwo secClass="dContact" isacData={isacData} />
+    <FooterTwo className="d_footer_area" isacData={isacData} />
   </div>
 );

@@ -5,7 +5,7 @@ import SectionTwo from "./SectionTwo";
 import SectionThree from "./SectionThree";
 import SectionFour from "./SectionFour";
 import NavbarThree from "../Navbar/NavbarThree";
-import jhonData from "../jhonData";
+import isacData from "../isacData";
 
 const FullpageSlider = (fullpageProps) => (
   <div className="scroll_page">
@@ -18,7 +18,7 @@ const FullpageSlider = (fullpageProps) => (
             <SectionOne smallText="Photography" />
             <SectionTwo />
             <SectionThree />
-            <SectionFour jhonData={jhonData} />
+            <SectionFour isacData={isacData} />
           </React.Fragment>
         );
       }}

@@ -4,7 +4,7 @@ import {Fade, Reveal} from 'react-reveal/';
 
 class About extends Component {
     render(){
-        let jhonData = this.props.jhonData; 
+        let isacData = this.props.isacData; 
         var {aClass} = this.props;
         return(
             <section className={`${aClass}`} id="about">
@@ -13,8 +13,8 @@ class About extends Component {
                         <div className="col-lg-7 d-flex align-items-center">
                             <Fade bottom cascade duration={1000}>
                                 <div className="about_content">
-                                    <h2 className="t_color">{jhonData.aboutme}</h2>
-                                    <p>{jhonData.aboutdetails}</p>
+                                    <h2 className="t_color">{isacData.aboutme}</h2>
+                                    <p>{isacData.aboutdetails}</p>
                                     <Link to="/"  className="theme_btn active">ISAC Rapid — 10 minute</Link>
                                 </div>
                             </Fade>

@@ -3,7 +3,7 @@ import { Reveal } from "react-reveal/";
 
 class DeveloperBanner extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     return (
       <section
         className="frelencer_banner_area developer_banner_area"
@@ -28,8 +28,8 @@ class DeveloperBanner extends Component {
                   src={require("../../image/developer-img/dot.png")}
                   alt=""
                 />
-                {jhonData.devloperBanner &&
-                  jhonData.devloperBanner.map((item) => {
+                {isacData.devloperBanner &&
+                  isacData.devloperBanner.map((item) => {
                     return (
                       <React.Fragment key={item.id}>
                         <Reveal effect="fadeInUp" duration={500}>

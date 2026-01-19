@@ -2,14 +2,14 @@ import React, { Component } from "react";
 
 class DeveloperAbout extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     return (
       <section className="dev_about_area" id="about">
         <div className="container">
           <div className="row flex-row-reverse">
             <div className="col-lg-6">
               <div className="dev_about_content">
-                {jhonData.devAbout.map((post) => {
+                {isacData.devAbout.map((post) => {
                   return (
                     <React.Fragment key={post.id}>
                       <h6>{post.smalltitle}</h6>
@@ -23,7 +23,7 @@ class DeveloperAbout extends Component {
             </div>
             <div className="col-lg-6">
               <div className="dev_skill_item">
-                {jhonData.aboutSkill.map((skill) => {
+                {isacData.aboutSkill.map((skill) => {
                   return (
                     <div className="item" key={skill.id}>
                       <h3>{skill.workName}</h3>

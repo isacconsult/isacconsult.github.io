@@ -4,14 +4,14 @@ import Form from "../Form";
 
 class SectionFour extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     return (
       <div className="section fp-section fp-tabble section_one contact-area">
         <div className="slider_container">
           <div className="container">
             <div className="row row-reverse">
-              {jhonData.contact &&
-                jhonData.contact.map((item) => {
+              {isacData.contact &&
+                isacData.contact.map((item) => {
                   return (
                     <React.Fragment key={item.id}>
                       <div className="col-md-5">
@@ -43,7 +43,7 @@ class SectionFour extends Component {
               <div className="col-md-7">
                 <Reveal effect="fadeInRight" duration={800}>
                   <div className="input_form">
-                    <h4>{jhonData.contacttitle}</h4>
+                    <h4>{isacData.contacttitle}</h4>
                     <Form />
                   </div>
                 </Reveal>

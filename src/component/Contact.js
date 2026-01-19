@@ -4,13 +4,13 @@ import Form from "./Form";
 
 class Contact extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     return (
       <section className="contact-area" id="contact">
         <div className="container">
           <div className="row row-reverse">
-            {jhonData.contact &&
-              jhonData.contact.map((item) => {
+            {isacData.contact &&
+              isacData.contact.map((item) => {
                 return (
                   <React.Fragment key={item.id}>
                     <div className="col-md-5">
@@ -42,7 +42,7 @@ class Contact extends Component {
             <div className="col-md-7">
               <Reveal effect="fadeInRight" duration={800}>
                 <div className="input_form">
-                  <h4>{jhonData.contacttitle}</h4>
+                  <h4>{isacData.contacttitle}</h4>
                   <Form />
                   <div id="success">Your message succesfully sent!</div>
                   <div id="error">

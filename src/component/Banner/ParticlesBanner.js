@@ -5,7 +5,7 @@ import Typer from "./Typer";
 
 class ParticlesBanner extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     return (
       <section id="home">
         <div className="banner_area_two">
@@ -24,11 +24,11 @@ class ParticlesBanner extends Component {
             <div className="banner_content">
               <Reveal effect="fadeInUp">
                 <h2 className="wow fadeInLeft animated">
-                  I'm {jhonData.name2}
+                  I'm {isacData.name2}
                 </h2>
               </Reveal>
               <Reveal effect="fadeInUp" duration={1500}>
-                <h3>{jhonData.ptext}</h3>
+                <h3>{isacData.ptext}</h3>
               </Reveal>
               <Typer
                 heading={"Specialized in"}
@@ -40,8 +40,8 @@ class ParticlesBanner extends Component {
                 ]}
               />
               <ul className="list_style social_icon">
-                {jhonData.socialLinks &&
-                  jhonData.socialLinks.map((item) => {
+                {isacData.socialLinks &&
+                  isacData.socialLinks.map((item) => {
                     return (
                       <li key={item.name}>
                         <a href={item.url}>

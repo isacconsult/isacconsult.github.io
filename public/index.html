@@ -25,6 +25,20 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>ISAC Consult</title>
+     <!-- EmailJS CDN - load this early -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+    <!-- Recommended: init immediately after loading -->
+    <script type="text/javascript">
+      (function(){
+        emailjs.init({
+          publicKey: "VEQh5fGvBzbhHQ3ya"   // ← your real key
+        });
+      })();
+    </script>
+
+<!-- Then your own bundled JS (which no longer imports @emailjs/browser) -->
+<script src="/bundle.js"></script>   <!-- or however your webpack outputs it -->
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Fade from "react-reveal/Fade";
 class FooterTwo extends Component {
   render() {
-    let jhonData = this.props.jhonData;
+    let isacData = this.props.isacData;
     let { className } = this.props;
     return (
       <section className={`footer-area-two ${className}`}>
@@ -11,7 +11,7 @@ class FooterTwo extends Component {
             <div className="col-sm-4">
               <Fade top cascade>
                 <ul className="list_style">
-                  {jhonData.socialLinks.map((item) => {
+                  {isacData.socialLinks.map((item) => {
                     return (
                       <li key={item.name}>
                         <a href={item.url}>

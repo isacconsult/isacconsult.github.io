@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import jhonData from "../jhonData";
+import isacData from "../isacData";
 import Award from "./awards";
 
 class DeveloperAwards extends Component {
@@ -17,7 +17,7 @@ class DeveloperAwards extends Component {
             <p>Working time some of my product wining awards.</p>
           </div>
           <div className="row">
-            <Award jhonData={jhonData} />
+            <Award isacData={isacData} />
           </div>
         </div>
       </section>
