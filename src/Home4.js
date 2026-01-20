@@ -11,6 +11,7 @@ import Oferta from './component/Oferta'
 // import Clientslogo from './component/Clientslogo';
 // import Blog from './component/Blog/Blog';
 import Contact from './component/Contact';
+import Contact2 from './component/ContactTwo';
 import Skill from './component/Skill/Skill';
 import Footer from './component/Footer';
 import isacData from './component/isacData';
@@ -33,6 +34,7 @@ export const Home4 = () => (
          <Blog/>
          */}
       <Contact isacData={isacData}/>
+      <Contact2 isacData={isacData}/>
       <Footer isacData={isacData}/>
   </div>
 )

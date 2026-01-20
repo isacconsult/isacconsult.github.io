@@ -22,11 +22,11 @@ class Contact extends Component {
                               return (
                                 <li className="item" key={info.id}>
                                   <div className="media">
-                                    <a href="/#">
+                                    <a href="tel:+40724 319 099">
                                       <i className={info.icon}></i>
                                     </a>
                                     <div className="media-body">
-                                      <a href="/#">{info.text}</a>
+                                      <a href="tel:+40724 319 099">{info.text}</a>
                                     </div>
                                   </div>
                                 </li>
