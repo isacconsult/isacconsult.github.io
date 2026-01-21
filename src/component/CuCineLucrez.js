@@ -18,8 +18,16 @@ class CuCineLucrez extends Component{
                                 return(
                                         <div className="col-lg-4 col-sm-6" key={item.id}>
                                             <div className="work_item wow fadeInUp" data-wow-delay="0.1s">
-                                                <i className={item.iconName}></i>
-                                                <a href=".#"><h2 className="t_color">{item.serviceTitle}</h2></a>
+                                                <img src={item.iconName} alt={item.serviceTitle}  style={{
+                                                        width: "80px",
+                                                        height: "80px",
+                                                        borderRadius: "50%",
+                                                        border: "2px solid black",
+                                                        objectFit: "cover",
+                                                        display: "block",
+                                                        margin: "0 auto",
+                                                    }}/>
+                                                <a href=".#"><h2 className="t_color" style={{ marginTop: '10px'}}>{item.serviceTitle}</h2></a>
                                                 <p>{item.sDetails}</p>
                                                 <p>{item.sDetails1}</p>
                                                 <p>{item.sDetails2}</p>

@@ -13,7 +13,7 @@ class Banner extends Component {
                              <div className="container">
                                 <div className={`banner_content ${textLeft}`}>
                                     <Reveal effect="fadeInUp">
-                                        <h5>---</h5>
+                                        <h2>ISAC</h2>
                                     </Reveal>
                                     <Reveal  effect="fadeInUp" duration={1500}>
                                         <h2 className="wow fadeInLeft animated">{isacData.name}</h2>

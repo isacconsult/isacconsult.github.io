@@ -1,5 +1,11 @@
+import childIcon from '../image/child.jpg'
+import teenagerIcon from '../image/teenager.jpg'
+import youngIcon from '../image/young.jpg'
+import adultIcon from '../image/adult.jpg'
+import oldIcon from '../image/old.jpg'
+
 const isacData = {
-  name: "ISAC — Poziționare Comportamentală Contextuală™",
+  name: "Poziționare Comportamentală Contextuală™",
   // name2: "Richard Tea.",
   //name3: "Alexa Johnson",
   //role: "",
@@ -40,15 +46,15 @@ const isacData = {
   service: [
     {
       id: 1,
-      iconName: "icon-child",
+      iconName: childIcon,
       serviceTitle: "Copii",
-      sDetails: "Situatie: copilul testează limitele.",
+      sDetails: "Situatie: copilul testează lfimitele.",
       sDetails1: 'ISAC: ajustezi reactia adultului → limită clară, consecventă, fără escaladare.',  
       sDetails2: 'Rezultat: comportamentul se stabilizeaza.',
     },
     {
       id: 2,
-      iconName: "icon-teenager",
+      iconName: teenagerIcon,
       serviceTitle: "Adolescenți",
       sDetails: "Situatie: contestare constantă.",
       sDetails1: 'ISAC: schimbi pozitia → mai putină confruntare, mai multa structura.',  
@@ -56,7 +62,7 @@ const isacData = {
     },
     {
       id: 3,
-      iconName: "icon-",
+      iconName: youngIcon,
       serviceTitle: "Tineri",
       sDetails: "Situatie: evitarea responsabilitătii. ",
       sDetails1: 'ISAC: clarifici asteptările si retragi sustinerea neproductiva.',  
@@ -64,7 +70,7 @@ const isacData = {
     },
     {
       id: 4,
-      iconName: "icon-",
+      iconName: adultIcon,
       serviceTitle: "Adulți",
       sDetails: "Situatie: control, pasiv-agresiv, manipulare.  ",
       sDetails1: 'ISAC: modifici reactia ta → iesi din jocul lor. ',  
@@ -72,7 +78,7 @@ const isacData = {
     },
     {
       id: 5,
-      iconName: "icon-",
+      iconName: oldIcon,
       serviceTitle: "Persoane în vârstă",
       sDetails:  "Situatie: rigiditate, rezistentă. ",
       sDetails1: 'ISAC: pozitionare calma, ferma, fara confruntare inutila. ',  

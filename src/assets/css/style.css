@@ -233,7 +233,8 @@ h6 {
 
 .navbar .logo_h {
   margin-right: 0px;
-  width: 40px;
+  width: 50px;
+ 
 }
 
 .navbar .logo_h img {
@@ -241,6 +242,10 @@ h6 {
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
+  border: 2px solid black;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
 }
 
 .navbar .logo_h img + img {
