@@ -19,10 +19,10 @@ const isacData = {
       className: "social_facebook",
     },
     {
-      name: "twitter",
-      url: "http://www.twitter.com/",
-      className: "social_twitter",
-    },
+      name: "instagram",
+      url: "https://www.instagram.com/isacconsult?igsh=a3VpeW5vMjU3ZGF4",
+      className: "social_instagram",
+    },  
     {
       name: "youtube",
       url: "https://youtube.com/@isacconsult?si=2iKk0PDsQNNQ3Et4",
