@@ -672,7 +672,7 @@ h6 {
 
 .work_area {
   background: #fafafa;
-  padding: 110px 0px 90px;
+  padding: 90px 0px 90px;
 }
 
 .work_item {
@@ -717,7 +717,7 @@ h6 {
 
 /*================= about_area_two css ==============*/
 .about_area_two {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 
 .n_section_title {
@@ -1026,7 +1026,7 @@ h6 {
 /*================== project_count_area css ================*/
 .project_count_area {
   background: #fafafa;
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 
 .project_count_area .counter_item i {
@@ -1060,7 +1060,7 @@ h6 {
 .testimonial_area {
   position: relative;
   z-index: 1;
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 
 .testimonial_area:before {
@@ -1239,7 +1239,7 @@ h6 {
 /*=============== blog_area css =============*/
 .blog_area {
   background: #fafafa;
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 
 .bg_w {
@@ -1352,7 +1352,7 @@ h6 {
 /*----------------------------------------------------*/
 /*============ contact-area css ===============*/
 .contact-area {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 
 .contact-area h4 {
@@ -1374,7 +1374,7 @@ h6 {
   padding-left: 20px;
   text-transform: capitalize;
   min-height: 44px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .contact-area .input_form form .form-control.placeholder {
@@ -1572,7 +1572,7 @@ h6 {
 }
 .work_area_two {
   background: #fff;
-  padding: 110px 0px 90px;
+  padding: 90px 0px 90px;
 }
 .bg_w {
   background: #fff;
@@ -1801,7 +1801,7 @@ h6 {
   margin-bottom: 30px;
 }
 .service_area_two {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 .service_content .section_title_two {
   margin-bottom: 0px;
@@ -1858,7 +1858,7 @@ h6 {
   border-right: none;
 }
 .skill_area_two {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 .skill_content_two .section_title_two {
   margin-bottom: 15px;
@@ -2082,7 +2082,7 @@ h6 {
   margin-right: -60px;
 }
 .blog_area_two {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 .blog_area_two .blog_post .post_content {
   margin-left: 25px;
@@ -2287,7 +2287,7 @@ h6 {
   margin-top: 25px;
 }
 .contact-area-two {
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 .contact-area-two .input_form form .form-control:focus {
   border-color: #0db3c7;
