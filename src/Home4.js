@@ -6,15 +6,16 @@ import Service from './component/Service';
 import SchemaIsac from './component/SchemaIsac'
 import CuCineLucrez from './component/CuCineLucrez'
 import Oferta from './component/Oferta'
+import Contact from './component/Contact';
+import Contact2 from './component/ContactTwo';
+import CtaFinal from './component/CtaFinal'
+import Skill from './component/Skill/Skill';
+import Footer from './component/Footer';
+import isacData from './component/isacData';
 // import Portfolio from './component/Portfolio/Portfolio';
 // import Testimonial from './component/Testimonial/Testimonial';
 // import Clientslogo from './component/Clientslogo';
 // import Blog from './component/Blog/Blog';
-import Contact from './component/Contact';
-import Contact2 from './component/ContactTwo';
-import Skill from './component/Skill/Skill';
-import Footer from './component/Footer';
-import isacData from './component/isacData';
 
 // require('../../image/Sail-Away.jpg') 
 export const Home4 = () => (
@@ -26,6 +27,7 @@ export const Home4 = () => (
       <SchemaIsac wClass="work_area_two" isacData={isacData}/>
       <CuCineLucrez wClass="work_area" isacData={isacData}/>
       <Oferta wClass="work_area_two" isacData={isacData}/>
+      <CtaFinal wClass="work_area"/>
       <Skill/>
       {/* 
         <Portfolio/>
