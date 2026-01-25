@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkisac_react=self.webpackChunkisac_react||[]).push([[793],{8793(e,a,c){c.r(a),c.d(a,{default:()=>l});c(5043);var s=c(579);const l=()=>(0,s.jsx)("div",{children:"Se lucreaza la el..."})}}]);
-//# sourceMappingURL=793.3bdc0e56.chunk.js.map
