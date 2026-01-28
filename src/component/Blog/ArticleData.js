@@ -3,20 +3,35 @@ const articleData = [
     title: 'Omul care se reglează prin risc',
     slug: 'unu',
     desc: 'Identitate, neurochimie și neocomportament',
-    date: '11 Ian'
+    image: 'omul_risc.jpg',
+    date: '22 Ian',
+    index: 1
   },
   {
-    title: 'A fost odată un om ..',
+    title: 'A fost odată un om ...',
     slug: 'doi',
     desc: 'A fost odată un om care se mândrea cu un lucru: ca rezista. ',
-    date: '24 Ian'
+    image: 'om.jpg',
+    date: '25 Ian',
+    index: 2
   },
   {
-    title: 'Work in Progress',
+    title: 'Felul în care am ajuns să înțeleg adaptarea umană',
     slug: 'trei',
-    desc: 'Working on it ...',
-    date: '29 Ian'
-  }
+    desc: 'Acest text nu este o teorie despre oameni și nu este o promisiune de vindecare.',
+    image: 'adaptare.jpg',
+    date: '27 Ian',
+    index: 3
+  },
+  {
+    title: 'Manifest pentru învățarea minții și a corpului',
+    slug: 'patru',
+    desc: 'Omul nu învață într-un singur fel. A spune ca învațarea este ...',
+    image: 'manifest.jpg',
+    date: '31 Ian',
+    index: 4
+  },
+
 ]
 
 export default articleData;

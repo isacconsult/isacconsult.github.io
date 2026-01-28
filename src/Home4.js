@@ -11,7 +11,6 @@ import CtaFinal from './component/CtaFinal'
 import Skill from './component/Skill/Skill';
 import Footer from './component/Footer';
 import isacData from './component/isacData';
-import Blog from './component/Blog/Blog';
 // import Portfolio from './component/Portfolio/Portfolio';
 // import Testimonial from './component/Testimonial/Testimonial';
 // import Clientslogo from './component/Clientslogo';
@@ -28,7 +27,6 @@ export const Home4 = () => (
       <Oferta wClass="work_area_two" isacData={isacData}/>
       <CtaFinal wClass="work_area"/>
       <Skill/>
-      <Blog/>
       <Contact isacData={isacData}/>
       <Footer isacData={isacData}/>
 

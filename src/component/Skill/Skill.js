@@ -42,9 +42,8 @@ class Skill extends Component {
         els.forEach(makeCountup);
     }
     render(){
-        var {cClass} = this.props;
         return(
-            <section className={`project_count_area ${cClass}`}>
+            <section className={`project_count_area`}>
                 <div className="container">
                     <Reveal effect="fadeInUp">
                         <div className="row">

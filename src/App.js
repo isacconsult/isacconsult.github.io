@@ -4,8 +4,10 @@ import Helmet from 'react-helmet';
 /*-----pages-----*/
 import { Home4 } from "./Home4";
 import { NotFound } from "./404";
+import Blog from "./component/Blog/Blog";
 import { Article } from "./component/Blog/Article";
-import logo from './image/logo.png'; 
+import logo from './image/logo.png';
+import ScrollToTop from "./scrollTop";
 
 /*-----not used pages ... for now -----*/
 // import { Home } from "./Home";
@@ -63,7 +65,7 @@ export const localBusinessScript = {
     addressRegion: 'Cluj',
   },
   openingHours: ['Mo-Fr 10:00-19:00'],
-  priceRange: '$$$, €', 
+  priceRange: '$$$, €',
 };
 
 export const webSiteScript = {
@@ -79,13 +81,46 @@ export const webSiteScript = {
 };
 
 export const siteNavScript = {
-  '@context': 'https://schema.org',
-  '@type': 'SiteNavigationElement',
-  name: 'Home',
-  url: siteUrl,
-  // If you have more menu items later, change to arrays:
-  // name: ['Home', 'Servicii', 'Contact'],
-  // url: [siteUrl, `${siteUrl}/servicii`, `${siteUrl}/contact`]
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "SiteNavigationElement",
+      "position": 1,
+      "name": "Acasă",
+      "url": siteUrl
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 2,
+      "name": "Articole",
+      "url": `${siteUrl}/articole`
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 3,
+      "name": "Omul care se reglează prin risc",
+      "url": `${siteUrl}/articole/unu`
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 4,
+      "name": "A fost odată un om ...",
+      "url": `${siteUrl}/articole/doi`
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 5,
+      "name": "Felul în care am ajuns să înțeleg adaptarea umană",
+      "url": `${siteUrl}/articole/trei`
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 6,
+      "name": "Manifest pentru învățarea minții si a corpului",
+      "url": `${siteUrl}/articole/patru`
+    }
+  ]
 };
 
 // ── Helper to render JSON-LD safely ────────────────────────────
@@ -132,26 +167,19 @@ class App extends Component {
   render() {
     return (
       <div>
-        <RenderMetaData />     
+        <RenderMetaData />
         <React.Fragment>
+
           <Router>
+            {/* scrolling to top for each route to prevent browser behavior */}
+            <ScrollToTop />
             <Switch>
-            <Route path="/Home4" component={Home4} />
+              <Route path="/Home4" component={Home4} />
               <Route exact path="/" component={Home4} />
-               {/* Dynamic route for individual posts */}
-              <Route path="/article/:slug" component={Article} />
+              <Route exact path="/articole" component={Blog} />
+              {/* Dynamic route for individual posts */}
+              <Route path="/articole/:slug" component={Article} />
               <Route component={NotFound} />
-             
-              
-              {/*
-              <Route path="/Home2" component={Home2} />
-              <Route path="/Home3" component={Home3} />
-              <Route path="/Home5" component={Home5} />
-              <Route path="/Home6" component={Home6} />
-               <Route path="/Creative-carousel" component={Creativecarousel} />
-              <Route path="/Home-frelencer" component={Homefrelencer} />
-              <Route path="/Home-developer" component={HomeDeveloper} />
-              */}
             </Switch>
           </Router>
         </React.Fragment>

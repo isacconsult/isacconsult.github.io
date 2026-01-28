@@ -142,7 +142,7 @@ class Form extends React.Component {
           id="message"
           className="form-control"
           rows="6"
-          placeholder="Messaj ..."
+          placeholder="Mesaj ..."
           onChange={this.handleChange}
         ></textarea>
 

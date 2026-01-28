@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import Sticky from "react-stickynode";
-import { Link } from "react-scroll";
+// For internal/smooth-scroll links (react-scroll)
+import { Link as ScrollLink } from 'react-scroll';
+// For page/route navigation (react-router-dom)
+import { Link as RouterLink } from 'react-router-dom';
 class Navbar extends Component {
   render() {
     var { mClass, mContainer, mainlogo, stickylogo } = this.props;
@@ -31,7 +34,7 @@ class Navbar extends Component {
             >
               <ul className="nav navbar-nav m-auto">
                 <li className="nav-item">
-                  <Link
+                  <ScrollLink
                     className="nav-link"
                     activeClass="active"
                     to="home"
@@ -41,10 +44,10 @@ class Navbar extends Component {
                     duration={500}
                   >
                     Acasă
-                  </Link>
+                  </ScrollLink>
                 </li>
                 <li className="nav-item">
-                  <Link
+                  <ScrollLink
                     className="nav-link"
                     activeClass="active"
                     to="about"
@@ -54,10 +57,10 @@ class Navbar extends Component {
                     duration={500}
                   >
                     Despre
-                  </Link>
+                  </ScrollLink>
                 </li>
                 <li className="nav-item">
-                  <Link
+                  <ScrollLink
                     className="nav-link"
                     activeClass="active"
                     to="service"
@@ -67,7 +70,7 @@ class Navbar extends Component {
                     duration={500}
                   >
                     Servicii
-                  </Link>
+                  </ScrollLink>
                 </li>
                  {/* <li className="nav-item">
                   <Link
@@ -95,22 +98,18 @@ class Navbar extends Component {
                     Testimonial
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link
-                    className="nav-link"
-                    activeClass="active"
-                    to="blog"
-                    spy={true}
-                    smooth={true}
-                    offset={-86}
-                    duration={500}
-                  >
-                    Blog
-                  </Link>
-                </li>
+               
                 */}
+                 <li className="nav-item">
+                  <RouterLink
+                    className="nav-link"
+                    to="/articole"
+                  >
+                    Articole
+                  </RouterLink>
+                </li>
                 <li className="nav-item">
-                  <Link
+                  <ScrollLink
                     className="nav-link"
                     activeClass="active"
                     to="contact"
@@ -120,7 +119,7 @@ class Navbar extends Component {
                     duration={500}
                   >
                     Contact
-                  </Link>
+                  </ScrollLink>
                 </li>
               </ul>
               {/* 

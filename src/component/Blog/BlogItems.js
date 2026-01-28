@@ -19,9 +19,9 @@ class BlogItems extends Component{
                                 BY : Isac
                             </span>
                         </div>
-                        <a href={`/article/${slug}`}><h2>{bTitle}</h2></a>
+                        <a href={`/articole/${slug}`}><h2>{bTitle}</h2></a>
                         <p>{bDetails}</p>
-                        <a href={`/article/${slug}`} className="read_btn">{btnText}<i className="arrow_right"></i> </a>
+                        <a href={`/articole/${slug}`} className="read_btn">{btnText}<i className="arrow_right"></i> </a>
                     </div>
                 </div>
             </div>

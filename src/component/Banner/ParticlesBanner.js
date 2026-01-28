@@ -30,12 +30,12 @@ class ParticlesBanner extends Component {
                 </h2>
               </Reveal>
               <Typer
-                heading={"Specialist in"}
+                heading={"Isac știe:"}
                 dataText={[
                   "Stimuli.",
                   "Comportamente.",
+                  "Acțiuni.",
                   "Decizii.",
-                  "Actiuni.",
                 ]}
               />
               <ul className="list_style social_icon">

@@ -474,6 +474,7 @@ h6 {
 /*========== banner_area css =========*/
 .banner_area,
 .banner_area_two {
+  border-bottom: 3px solid black;
   min-height: 100vh;
   position: relative;
   z-index: 1;
@@ -667,8 +668,6 @@ h6 {
   transform: scaleX(0);
 }
 .about_img img {
-  margin-left: -50px;
-  margin-top: -100px;
   width: 100%;
 }
 
@@ -686,7 +685,6 @@ h6 {
   -webkit-transition: all 0.4s linear;
   -o-transition: all 0.4s linear;
   transition: all 0.4s linear;
-  cursor: pointer;
 }
 
 .work_item i {
@@ -1028,6 +1026,7 @@ h6 {
 /*================== project_count_area css ================*/
 .project_count_area {
   background: #fafafa;
+  border-bottom: 3px solid black;
   padding: 100px 0px;
 }
 
@@ -1241,7 +1240,6 @@ h6 {
 /*=============== blog_area css =============*/
 .blog_area {
   background: #fafafa;
-  border-top: 3px solid black;
   padding: 100px 0px;
 }
 
