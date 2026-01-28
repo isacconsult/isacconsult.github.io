@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Reveal from 'react-reveal';
+import {Link} from 'react-scroll';
 
 class Oferta extends Component{
     render(){
@@ -20,6 +21,17 @@ class Oferta extends Component{
                     <Reveal  effect="fadeInUp" duration={1500}><p className="mb_0 title_p">Claritate + reguli reutilizabile.</p></Reveal>
                     <Reveal  effect="fadeInLeft" duration={2000}><span className="bottom_line"></span></Reveal> 
                   </div>
+                </div>
+                <div className="text-center" style={{ marginTop: "20px"}}>
+                  <Link
+                  activeClass="active"
+                  to="contact"
+                  spy={true}
+                  smooth={true}
+                  offset={-86}
+                  duration={500}
+                  className="theme_btn active nav-link">👉 ISAC Rapid — 10 minute
+                </Link>
                 </div>
             </section>
         )

@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import {Component} from 'react';
 import {Link} from 'react-scroll';
 import {Fade, Reveal} from 'react-reveal';
 
@@ -22,7 +22,7 @@ class About extends Component {
                                      smooth={true}
                                      offset={-86}
                                      duration={500}
-                                     className="theme_btn active nav-link">ISAC Rapid — 10 minute</Link>
+                                     className="theme_btn active nav-link">👉 ISAC Rapid — 10 minute</Link>
                                 </div>
                             </Fade>
                         </div>
