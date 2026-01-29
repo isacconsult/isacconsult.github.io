@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Trei = () => {
   return <div>
     <p className="mb_0 title_p">✻ ✻ ✻</p>

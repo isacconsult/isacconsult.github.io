@@ -119,7 +119,19 @@ export const siteNavScript = {
       "position": 6,
       "name": "Manifest pentru învățarea minții si a corpului",
       "url": `${siteUrl}/articole/patru`
-    }
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 7,
+      "name": "Consultanță comportamentală defensivă",
+      "url": `${siteUrl}/articole/cinci`
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 8,
+      "name": "Comportamentele care ne țin împreună (până nu ne mai țin)",
+      "url": `${siteUrl}/articole/sase`
+    },
   ]
 };
 

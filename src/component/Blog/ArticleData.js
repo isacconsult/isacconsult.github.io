@@ -18,7 +18,7 @@ const articleData = [
   {
     title: 'Felul în care am ajuns să înțeleg adaptarea umană',
     slug: 'trei',
-    desc: 'Acest text nu este o teorie despre oameni și nu este o promisiune de vindecare.',
+    desc: 'Acest text nu este o teorie despre oameni și nu este o promisiune ..',
     image: 'adaptare.jpg',
     date: '27 Ian',
     index: 3
@@ -28,10 +28,26 @@ const articleData = [
     slug: 'patru',
     desc: 'Omul nu învață într-un singur fel. A spune ca învațarea este ...',
     image: 'manifest.jpg',
-    date: '31 Ian',
+    date: '28 Ian',
     index: 4
   },
-
+  {
+    title: 'Consultanță comportamentală defensivă',
+    slug: 'cinci',
+    desc: 'Nu lucrez cu etichete. Nu lucrez cu vină..',
+    image: 'consultanta.jpg',
+    date: '29 Ian',
+    index: 5
+  },
+  {
+    title: 'Comportamentele care ne țin împreună (până nu ne mai țin)',
+    slug: 'sase',
+    desc: 'Oamenii nu fac lucruri ca să strice relațiile. Fac lucruri ca să reziste in ele.',
+    image: 'comportamente.jpg',
+    date: '29 Ian',
+    index: 6
+  }
+  
 ]
 
 export default articleData;
