@@ -132,6 +132,12 @@ export const siteNavScript = {
       "name": "Comportamentele care ne țin împreună (până nu ne mai țin)",
       "url": `${siteUrl}/articole/sase`
     },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 9,
+      "name": "Nodul cel mai dureros din relații",
+      "url": `${siteUrl}/articole/sapte`
+    },
   ]
 };
 

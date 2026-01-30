@@ -113,6 +113,14 @@ h6 {
   color: #040c2c;
 }
 
+.bold_text {
+  font-weight: 900;
+  color: #000;
+}
+.bold_text.nineteen {
+font-size: 19px;
+}
+
 @media (max-width: 767px) {
   .container {
     max-width: 100%;
