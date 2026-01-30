@@ -6,26 +6,26 @@ const Doi = () => {
     <p className="mb_0 title_p">A fost odată un om care se mândrea cu un lucru: că rezistă.
       Rezistă la oboseală, la stres, la presiune, la oameni dificili, la medii ostile.
       Rezistă  acolo unde alții cedau și, fară să spună cu voce tare, gândea că daca el poate, ar trebui să poată si ceilalți.
-      Nu din aroganță, ci pentru că așa învățase sã trăiască.
+      Nu din aroganță, ci pentru că așa învățase să trăiască.
       Rezistența devenise identitatea lui.</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">Nu știa atunci că oamenii nu sunt construiți la fel.
-      Unii au corpul mai tolerant, altii mai sensibil. Unii se recupereaza repede, altii platesc fiecare efort.
-      Unii pot sta mai mult în frig, alții Îngheață repede.
+      Unii au corpul mai tolerant, alții mai sensibil. Unii se recuperează repede, alții plătesc fiecare efort.
+      Unii pot sta mai mult în frig, alții îngheață repede.
       El fusese mai compatibil cu mediul în care trăise. Nu mai bun, nu mai puternic moral, doar mai potrivit biologic.
       Asta îl ajutase să rămână în picioare, dar îl și păcălise.
     </p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">Ani la rând, corpul lui a dus.
-      Când obosea, strângea din dinți. Când Îl durea, ignora. Când nu mai avea chef, se forța.
+      Când obosea, strângea din dinți. Când îl durea, ignora. Când nu mai avea chef, se forța.
       Corpul se adapta, compensa, trăgea din rezerve.
-      Asta e rezistența: capacitatea de a funcționa chiar și atunci când costul începe sã se acumuleze.
+      Asta e rezistența: capacitatea de a funcționa chiar și atunci când costul începe să se acumuleze.
       Mult timp, corpul a tăcut și a muncit.</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">Mintea îl ajuta. 
       Îi spunea că trebuie, că e normal, că alții duc mai mult, că nu e momentul să se oprească.
       Mintea găsea mereu explicații. Mintea nu are limite reale.
-      Ea poate impinge la nesfârșit, pentru că nu plătește direct prețul.
+      Ea poate împinge la nesfârșit, pentru că nu plătește direct prețul.
       Ea doar interpretează.
     </p>
     <p className="mb_0 title_p">*</p>
@@ -34,19 +34,20 @@ const Doi = () => {
       Observa cât stres se adună, câtă energie mai rămâne, cât de rar apare recuperarea.
       Creierul nu negocia cu sensul și nu era impresionat de ambiție.
       Îl interesa doar supraviețuirea.
-      Când resursele Începeau sã scadă, creierul reducea funcțiile: atenția, claritatea, capacitatea de Învațare.
+      Când resursele începeau sã scadă, creierul reducea funcțiile: atenția, claritatea, capacitatea de învațare.
       Nu ca pedeapsa, ci ca protecție.
     </p>
     <p className="mb_0 title_p">*</p>
     <p className='mb_0 title_p'>Într-o zi, omul a simțit că nu mai e vorba doar de oboseală.
-      A aparut ceața.Confuzia. Reacțiile disproporționate.
-      Făcea lucruri pe pilot automat si se vedea din afară fără sã se mai simtă întreg.
-      Nu mai era el, dar înca functiona.
+      A aparut ceața. Confuzia. Reacțiile disproporționate.
+      Făcea lucruri pe pilot automat si se vedea din afară fără să se mai simtă întreg.
+      Nu mai era el, dar încă funcționa.
       Așa apare ruptura: nu ca o explozie, ci ca o închidere lentă.</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">A fost surprins.
       Cum tocmai el, care rezistase mereu, ajunsese acolo?
-      Nu înțelegea Încă faptul că nu se rupsese pentru cã era slab, ci pentru că dusese prea mult timp ceva ce putea fi dus doar temporar.
+      Nu înțelegea încă faptul că nu se rupsese pentru că era slab, 
+      ci pentru că dusese prea mult timp ceva ce putea fi dus doar temporar.
       Rezistența lui fusese reală, dar nu infinită.</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">În aceeași perioadă, a început să observe ceva și la alții.
@@ -58,9 +59,9 @@ const Doi = () => {
       Aveau spațiu în ei. Ceilalți erau tensionati, grăbiți, mereu în alertă.
       Nu le lipsea dorința, ci siguranța biologică.</p>
     <p className="mb_0 title_p">*</p>
-    <p className="mb_0 title_p">A înțeles atunci ca invățarea nu incepe in minte, ci în creier.
+    <p className="mb_0 title_p">A înțeles atunci că învățarea nu incepe în minte, ci în creier.
       Creierul decide mai întâi dacă e sigur. Abia apoi dacã e atent.
-      Abia la final dacă învață. Când creierul e ocupat sã se apere, informația nu intră.
+      Abia la final dacă învață. Când creierul e ocupat să se apere, informația nu intră.
       Nu pentru că omul nu e capabil, ci pentru ca supraviețuirea vine înaintea cunoașterii.
       Diferențele de învățare nu sunt, de multe ori, diferențe de valoare, ci de compatibilitate biologicã cu mediul.
     </p>
@@ -68,25 +69,25 @@ const Doi = () => {
     <p className="mb_0 title_p">A început să înțeleagă că mulți oameni nu sunt proști, slabi sau leneși.
       Sunt doar în locuri care cer ceva ce biologia lor nu poate oferi fără costuri mari.
       Un copil care nu poate sta nemișcat nu e defect.
-      Un adult care se epuizează intr-un job rigid nu e incapabil.
+      Un adult care se epuizează într-un job rigid nu e incapabil.
       Un om care nu învață sub presiune nu e inferior. Sunt, pur si simplu, în locul greșit pentru biologia ١٥٣٠</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">Problema reală apare când omul interpretează această incompatibilitate ca pe un defect personal.
-      Atunci Începe lupta cu sine. Se forțează, se judecă, se compară. Mintea spune că trebuie sã fie altfel.
-      Creierul simte presiunea și se Închide și mai mult. Așa apare cercul vicios: cu cât te forțezi într-un mediu incompatibil,
+      Atunci începe lupta cu sinele. Se forțează, se judecă, se compară. Mintea spune că trebuie să fie altfel.
+      Creierul simte presiunea și se închide și mai mult. Așa apare cercul vicios: cu cât te forțezi într-un mediu incompatibil,
       cu atât funcționezi mai prost.</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">
       În acest punct, omul a întâlnit pe cineva care nu l-a motivat. Nu i-a spus să mai reziste, să fie tare sau să gândească pozitiv.
-      Consultantul comportamental l-a Întrebat doar atât: cât l-a costat să reziste.
-      Întrebarea a fost mai grea decät tot ce dusese până atunci.
+      Consultantul comportamental l-a întrebat doar atât: cât l-a costat să reziste.
+      Întrebarea a fost mai grea decât tot ce dusese până atunci.
       Pentru prima dată, nu era întrebat cât poate, ci ce pierde.
     </p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">
       A început să privească altfel viața lui: munca, relațiile, rolurile jucate din obișnuință.
       A înțeles că nu stătuse afară pentru că era curajos, ci pentru că încă putea. 
-      Dar „a putea" nu înseamnă „a fi bine". Rezistența îl ținuse functional, dar il îndepărtase de sine.</p>
+      Dar „a putea" nu înseamnă „a fi bine". Rezistența îl ținuse funcțional, dar il îndepărtase de sine.</p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">
       Atunci a înțeles diferența dintre rezistență si înțelepciune. Rezistența spune „mai duc".
@@ -96,7 +97,7 @@ const Doi = () => {
     </p>
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">
-      Omul nu a devenit mai slab. A devenit întreg. și a înțeles ceva ce nu mai judeca acum la alții:
+      Omul nu a devenit mai slab. A devenit întreg. Şi a înțeles ceva ce nu mai judeca acum la alții:
       cei care cad nu sunt slabi, ci doar mai puțin compatibili cu frigul în care au fost ținuți.
       Cei care învață greu nu sunt incapabili, ci suprasolicitați.
       Cei care obosesc repede nu sunt leneși, ci uzați biologic.
@@ -105,7 +106,11 @@ const Doi = () => {
     <p className="mb_0 title_p">
       A înțeles, în final, că viața nu e o competiție de rezistență.
       Nu câștigă cine stă cel mai mult afara. Câștigă cine știe când să intre înăuntru. 
-      Mintea explicã. Creierul decide. Corpul plãtește. lar înțelepciunea nu e sa te lupți cu biologia ta, ci să-ți construiesti viața în acord cu ea.</p>
+    </p>
+    <p className="mb_0 title_p">Mintea explicã. </p>
+    <p className="mb_0 title_p">Creierul decide.</p>
+    <p className="mb_0 title_p">Corpul plătește.</p>
+    <p className="mb_0 title_p">Iar înțelepciunea nu e sa te lupți cu biologia ta, ci să-ți construiesti viața în acord cu ea.</p>  
     <p className="mb_0 title_p">*</p>
     <p className="mb_0 title_p">Nu te definește cât ai îndurat</p>
     <p className="mb_0 title_p">Te definește cât din tine a rămas.</p>

@@ -39,7 +39,7 @@ const Sapte = () => {
       <p className="mb_0 title_p">Pentru că:</p>
       <p className="mb_0 title_p">• nu are încă structura internă să lege „comportament → efect"</p>
       <p className="mb_0 title_p">• nu poate tolera frustrarea</p>
-      <p className="mb_0 title_p">• nu poate sta în disconfort suficient de mult ca să Învețe</p>
+      <p className="mb_0 title_p">• nu poate sta în disconfort suficient de mult ca să învețe</p>
       <p className="mb_0 title_p">Asta NU e răutate.</p>
       <p className="mb_0 title_p">E <span className="bold_text">limită biologică si relațională.</span></p>
       <p className="mb_0 title_p" style={{ marginBottom: "25px"}} /> 
@@ -51,7 +51,7 @@ const Sapte = () => {
       <p className="mb_0 title_p">• doar pe toleranță</p>
       <p className="mb_0 title_p">• doar pe „lasă că trece"</p>
       <p className="mb_0 title_p">În momentul în care:</p>
-      <p className="mb_0 title_p">• introduci consecința</p>
+      <p className="mb_0 title_p">• introduci consecință</p>
       <p className="mb_0 title_p">• introduci limită</p>
       <p className="mb_0 title_p">• introduci realitate</p>
       <p className="mb_0 title_p">👉 relația se rupe.</p>
