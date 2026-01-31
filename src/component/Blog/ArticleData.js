@@ -10,7 +10,7 @@ const articleData = [
   {
     title: 'A fost odată un om ...',
     slug: 'doi',
-    desc: 'A fost odată un om care se mândrea cu un lucru: ca rezista. ',
+    desc: 'A fost odată un om care se mândrea cu un lucru: ca rezista ... ',
     image: 'om.jpg',
     date: '23 Ian',
     index: 2
@@ -18,7 +18,7 @@ const articleData = [
   {
     title: 'Felul în care am ajuns să înțeleg adaptarea umană',
     slug: 'trei',
-    desc: 'Acest text nu este o teorie despre oameni și nu este o promisiune ..',
+    desc: 'Acest text nu este o teorie despre oameni și nu este o promisiune ...',
     image: 'adaptare.jpg',
     date: '24 Ian',
     index: 3
@@ -34,7 +34,7 @@ const articleData = [
   {
     title: 'Consultanță comportamentală defensivă',
     slug: 'cinci',
-    desc: 'Nu lucrez cu etichete. Nu lucrez cu vină..',
+    desc: 'Nu lucrez cu etichete. Nu lucrez cu vină ...',
     image: 'consultanta.jpg',
     date: '26 Ian',
     index: 5
@@ -47,15 +47,22 @@ const articleData = [
     date: '27 Ian',
     index: 6
   },
-   {
+  {
     title: 'Nodul cel mai dureros din relații',
     slug: 'sapte',
-    desc: 'Nu e o problemă de iubire, ci de structură de invățare',
+    desc: 'Nu e o problemă de iubire, ci de structură de invățare.',
     image: 'nodul.jpg',
     date: '28 Ian',
     index: 7
-  }
-  
+  },
+  {
+    title: 'Funcția din spatele comportamentului',
+    slug: 'opt',
+    desc: 'Oamenii nu reacționează diferit pentru că sunt ...,',
+    image: 'nodul.jpg',
+    date: '29 Ian',
+    index: 8
+  },
 ]
 
 export default articleData;
