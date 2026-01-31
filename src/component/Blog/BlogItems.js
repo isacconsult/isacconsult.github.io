@@ -1,4 +1,5 @@
-import React, {Component} from 'react';
+import { Component } from 'react';
+
 class BlogItems extends Component{
     render(){
         let {bTitle, bDetails, btnText, image, Pdata, slug} = this.props;

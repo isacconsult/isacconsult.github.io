@@ -7,6 +7,7 @@ import isacData from "../isacData";
 class ParticlesBanner extends Component {
   render() {
     let articleData = this.props.articleData;
+    let hideTyper = this.props.hideTyper
     
     return (
       <section id="home">
@@ -29,7 +30,7 @@ class ParticlesBanner extends Component {
                   {articleData.title}
                 </h2>
               </Reveal>
-              <Typer
+              {!hideTyper &&<Typer
                 heading={"Isac știe:"}
                 dataText={[
                   "Stimuli.",
@@ -37,7 +38,7 @@ class ParticlesBanner extends Component {
                   "Acțiuni.",
                   "Decizii.",
                 ]}
-              />
+              /> }
               <ul className="list_style social_icon">
                 {isacData.socialLinks &&
                   isacData.socialLinks.map((item) => {

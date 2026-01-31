@@ -1,5 +1,3 @@
-
-import React from 'react';
 import { lazy, Suspense } from 'react';
 import { useParams, useHistory } from 'react-router-dom';
 import Navbar from '../../component/Navbar/NavbarTwo';

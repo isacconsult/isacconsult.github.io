@@ -1,10 +1,8 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import Navbar from '../../component/Navbar/NavbarTwo';
 import PBanner from '../../component/Banner/ParticlesBanner';
 import Footer from '../../component/Footer';
-import Sectiontitle from '../Banner/Sectiontitle';
 import BlogItems from '../Blog/BlogItems';
-import Reveal from 'react-reveal';
 import articleData from './ArticleData';
 import isacData from '../isacData';
 
@@ -20,13 +18,11 @@ class Blog extends Component {
                 <PBanner articleData={bannerData} />
                 <section className="blog_area" id="blog">
                     <div className="container">
-                        <Reveal effect="fadeInUp" duration={1000}>
-                            <div className="row">
-                                {articleData.map(el =>
-                                    <BlogItems key={el.slug} bTitle={el.title} bDetails={el.desc} btnText="Citește" image={el.image} Pdata={el.date} slug={el.slug} />
-                                )}
-                            </div>
-                        </Reveal>
+                        <div className="row">
+                            {articleData.map(el =>
+                                <BlogItems key={el.slug} bTitle={el.title} bDetails={el.desc} btnText="Citește" image={el.image} Pdata={el.date} slug={el.slug} />
+                            )}
+                        </div>
                     </div>
                 </section>
                 <Footer isacData={isacData} />
