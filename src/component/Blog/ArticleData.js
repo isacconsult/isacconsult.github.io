@@ -58,8 +58,8 @@ const articleData = [
   {
     title: 'Funcția din spatele comportamentului',
     slug: 'opt',
-    desc: 'Oamenii nu reacționează diferit pentru că sunt ...,',
-    image: 'nodul.jpg',
+    desc: 'Oamenii nu reacționează diferit pentru că sunt ...',
+    image: 'functia.jpg',
     date: '29 Ian',
     index: 8
   },
