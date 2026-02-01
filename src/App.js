@@ -138,11 +138,17 @@ export const siteNavScript = {
       "name": "Nodul cel mai dureros din relații",
       "url": `${siteUrl}/articole/sapte`
     },
-     {
+    {
       "@type": "SiteNavigationElement",
       "position": 10,
       "name": "Funcția din spatele comportamentului",
       "url": `${siteUrl}/articole/opt`
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 11,
+      "name": "De ce stau oamenii in relații",
+      "url": `${siteUrl}/articole/noua`
     },
   ]
 };

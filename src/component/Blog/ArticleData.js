@@ -63,6 +63,14 @@ const articleData = [
     date: '29 Ian',
     index: 8
   },
+  {
+    title: 'De ce stau oamenii in relații',
+    slug: 'noua',
+    desc: 'In relațiile dintre oameni nu contează ce spui că simți sau ce intenții ai ...',
+    image: 'relatii.jpg',
+    date: '31 Ian',
+    index: 9
+  },
 ]
 
 export default articleData;
