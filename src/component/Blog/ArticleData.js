@@ -71,6 +71,14 @@ const articleData = [
     date: '31 Ian',
     index: 9
   },
+  {
+    title: 'Costul biologic',
+    slug: 'zece',
+    desc: 'Un cost biologic înseamnă ce plătește corpul tău ca sã poată face față unei situații.',
+    image: 'costul.jpg',
+    date: '2 Feb',
+    index: 10
+  },
 ]
 
 export default articleData;

@@ -150,6 +150,12 @@ export const siteNavScript = {
       "name": "De ce stau oamenii in relații",
       "url": `${siteUrl}/articole/noua`
     },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 12,
+      "name": "Costul biologic",
+      "url": `${siteUrl}/articole/zece`
+    },
   ]
 };
 
