@@ -1248,7 +1248,7 @@ font-size: 19px;
 /*=============== blog_area css =============*/
 .blog_area {
   background: #fafafa;
-  padding: 100px 0px;
+  padding: 30px 0 100px 0;
 }
 
 .bg_w {
@@ -1357,6 +1357,57 @@ font-size: 19px;
 .blog_post:hover .post_date {
   background: #040c2c;
   color: #fff;
+}
+.blog-search-wrapper {
+  margin: 2.5rem 0 3rem;
+  text-align: center;
+}
+
+.search-container {
+  position: relative;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.blog-search-input {
+  width: 100%;
+  padding: 14px 20px 14px 48px;
+  border: 1px solid #e0e0e0;
+  border-radius: 50px;
+  font-size: 1.05rem;
+  transition: all 0.25s ease;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.blog-search-input:focus {
+  outline: none;
+  border-color: #494949;
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+.search-icon {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.3rem;
+  color: #9ca3af;
+  pointer-events: none;
+}
+
+.search-results-info {
+  margin-top: 1.2rem;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.no-results {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 4rem 1rem;
+  color: #6b7280;
+  font-size: 1.1rem;
 }
 
 /*---------------------------------------------------- */
