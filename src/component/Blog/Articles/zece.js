@@ -48,7 +48,6 @@ return <div>
       <p className="mb_0 title_p">Ideea de bază este simplă: orice faci are un preț. 
         Întrebarea nu este doar dacă funcționeazã, ci cât te costă pe termen lung. 
         Iar dacă nu schimbi nimic, corpul va schimba el pentru tine, mai devreme sau mai târziu.</p>
-      <p className="mb_0 title_p"></p>
      </div>  
      <p className="mb_0 title_p" style={{ marginBottom: "25px"}} />
      <p className="mb_0 title_p" style={{ marginTop: "25px"}}>✻ ✻ ✻</p>

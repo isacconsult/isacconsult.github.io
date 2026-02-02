@@ -79,6 +79,14 @@ const articleData = [
     date: '2 Feb',
     index: 10
   },
+  {
+    title: 'După despărțire',
+    slug: 'unspe',
+    desc: 'De aceea, după o despărțire, nu îți lipsește doar „el" sau „ea"...',
+    image: 'despartire.jpg',
+    date: '2 Feb',
+    index: 11
+  },
 ]
 
 export default articleData;

@@ -156,6 +156,12 @@ export const siteNavScript = {
       "name": "Costul biologic",
       "url": `${siteUrl}/articole/zece`
     },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 13,
+      "name": "După despărțire",
+      "url": `${siteUrl}/articole/unspe`
+    },
   ]
 };
 
