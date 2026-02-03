@@ -1273,7 +1273,7 @@ font-size: 19px;
 
 .blog_post .blog_img .post_date {
   position: absolute;
-  width: 55px;
+  width: 49px;
   height: 60px;
   font: 700 18px "Montserrat", sans-serif;
   color: #494949;
@@ -1324,6 +1324,13 @@ font-size: 19px;
   color: #494949;
   padding: 10px 0px 8px;
   transition: all 0.2s linear;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;    
+  line-clamp: 3; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  
 }
 .blog_post .post_content h2:hover {
   color: #040c2c;

@@ -87,6 +87,14 @@ const articleData = [
     date: '2 Feb',
     index: 11
   },
+  {
+    title: 'Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentalã și biologică',
+    slug: 'doispe',
+    desc: 'Un copil care crește într-o familie în care unul dintre părinți este alcoolic',
+    image: 'parinti.jpg',
+    date: '3 Feb',
+    index: 12
+  },
 ]
 
 export default articleData;
