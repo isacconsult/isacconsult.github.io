@@ -165,7 +165,7 @@ export const siteNavScript = {
     {
       "@type": "SiteNavigationElement",
       "position": 14,
-      "name": "Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentalã și biologică",
+      "name": "Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentală și biologică",
       "url": `${siteUrl}/articole/doispe`
     },
   ]

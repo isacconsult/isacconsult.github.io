@@ -93,18 +93,30 @@ const Trei = () => {
     Nu ofer diagnostic și nu justific comportamente distructive. Este un cadru de înțelegere, nu un verdict.
     Înțelegerea biologiei nu este o scuză pentru evitarea responsabilițatii, ci baza unei responsabilitați realiste. </p>
     <p className="mb_0 title_p">✻</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>McEwen, B.S. (2002). The end of stress as we know it.</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Sapolsky, R. M. (2004). Why zebras don't get ulcers.</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Porges, S. W. (2011). The polyvagal theory.</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>van der Kolk, B. A.(2014). The body keeps the score.</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Levine, P. A. (1997). Waking the tiger. </p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>LeDoux, J. E. (1996). The emotional brain. </p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Perry, B. D., & Szalavitz, M. (2006). The boy who was raised as a dog. </p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}> Winnicott, D. (1971). Playing and reality. </p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Schore, A. N. (1994). Affect regulation and the origin of the self.</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Damasio, A. R. (1994). Descartes' error. </p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Barrett, L. F. (2017). How emotions are made.</p>
-    <p className="mb_0 title_p" style={{ textAlign: "left"}}>Friston, K. (2010). The free-energy principle.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">McEwen, B.S. (2002).</span> The end of stress as we know it.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Sapolsky, R. M.</span> (2004). Why zebras don't get ulcers.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Porges, S. W.</span> (2011). The polyvagal theory.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">van der Kolk, B. A.</span>(2014). The body keeps the score.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Levine, P. A. </span>(1997). Waking the tiger. </p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">LeDoux, J. E.</span> (1996). The emotional brain. </p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Perry, B. D., & Szalavitz, M.</span> (2006). The boy who was raised as a dog. </p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Winnicott, D.</span> (1971). Playing and reality. </p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Schore, A. N.</span> (1994). Affect regulation and the origin of the self.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Damasio, A. R.</span> (1994). Descartes' error. </p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Barrett, L. F.</span> (2017). How emotions are made.</p>
+    <p className="mb_0 title_p" style={{ textAlign: "left"}}>
+      <span className="bold_text">Friston, K.</span> (2010). The free-energy principle.</p>
     <p className="mb_0 title_p" style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
   </div>;
 };

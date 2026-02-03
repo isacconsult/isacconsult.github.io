@@ -8,7 +8,7 @@ const articleData = [
     index: 1
   },
   {
-    title: 'A fost odată un om ...',
+    title: 'A fost odată un om',
     slug: 'doi',
     desc: 'A fost odată un om care se mândrea cu un lucru: ca rezista ... ',
     image: 'om.jpg',
@@ -88,7 +88,7 @@ const articleData = [
     index: 11
   },
   {
-    title: 'Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentalã și biologică',
+    title: 'Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentală și biologică',
     slug: 'doispe',
     desc: 'Un copil care crește într-o familie în care unul dintre părinți este alcoolic',
     image: 'parinti.jpg',
