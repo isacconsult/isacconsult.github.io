@@ -1,7 +1,7 @@
 const Doispe = () => {
 return <div className="articol">
      <p>✻ ✻ ✻</p> 
-     <p tyle={{ marginBottom: "25px"}} />
+     <p style={{ marginBottom: "25px"}} />
      <p className="bold_text">Un copil care crește într-o familie în care unul dintre părinți este alcoolic,</p>
      <p style={{ marginBottom: "25px"}} />
      <div style={{ textAlign: 'left'}}>

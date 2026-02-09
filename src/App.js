@@ -168,6 +168,12 @@ export const siteNavScript = {
       "name": "Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentală și biologică",
       "url": `${siteUrl}/articole/doispe`
     },
+    {
+      "@type": "SiteNavigationElement",
+      "position": 15,
+      "name": "Moduri diferite prin care oamenii privesc realitatea interpersonală",
+      "url": `${siteUrl}/articole/treispe`
+    },
   ]
 };
 

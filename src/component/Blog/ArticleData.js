@@ -95,6 +95,14 @@ const articleData = [
     date: '3 Feb',
     index: 12
   },
+  {
+    title: 'Moduri diferite prin care oamenii privesc realitatea interpersonală',
+    slug: 'treispe',
+    desc: 'Unii privesc oamenii prin emoții si intenții, iar alții prin efecte si consecințe.',
+    image: 'realitate_interpersonala.jpg',
+    date: '9 Feb',
+    index: 13
+  },
 ]
 
 export default articleData;
