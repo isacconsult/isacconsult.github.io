@@ -66,7 +66,7 @@ const articleData = [
   {
     title: 'De ce stau oamenii in relații',
     slug: 'noua',
-    desc: 'In relațiile dintre oameni nu contează ce spui că simți sau ce intenții ai ...',
+    desc: 'În relațiile dintre oameni nu contează ce spui că simți sau ce intenții ai ...',
     image: 'relatii.jpg',
     date: '31 Ian',
     index: 9
@@ -98,10 +98,18 @@ const articleData = [
   {
     title: 'Moduri diferite prin care oamenii privesc realitatea interpersonală',
     slug: 'treispe',
-    desc: 'Unii privesc oamenii prin emoții si intenții, iar alții prin efecte si consecințe.',
+    desc: 'Unii privesc oamenii prin emoții și intenții, iar alții prin efecte și consecințe.',
     image: 'realitate_interpersonala.jpg',
     date: '9 Feb',
     index: 13
+  },
+  {
+    title: 'Dinamica dintre stabilitatea funcțională și stabilitatea emoțională în cuplu',
+    slug: 'paispe',
+    desc: 'În multe relații de cuplu conflictele nu apar din lipsă de iubire ...',
+    image: 'stabilitate.jpg',
+    date: '10 Feb',
+    index: 14
   },
 ]
 
