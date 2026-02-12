@@ -127,7 +127,14 @@ const articleData = [
     date: '12 Feb',
     index: 16
   },
- 
+  {
+    title: 'Alte tipuri de relație',
+    slug: 'saptespe',
+    desc: 'Ce fel de relații mai sunt - până acum am vorbit de 3 tipuri:',
+    image: 'alte_relatii.jpg',
+    date: '13 Feb',
+    index: 17
+  },
 ]
 
 export default articleData;
