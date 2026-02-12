@@ -1,5 +1,3 @@
-// src/constants/navigation.ts  — cleaner long-term version
-
 import { siteUrl } from './seo';
 
 export const navigationItems = [
@@ -18,7 +16,9 @@ export const navigationItems = [
   { position: 13, name: "După despărțire", url: `${siteUrl}/articole/unspe` },
   { position: 14, name: "Influența mediului familial cu alcoolism asupra adultului: o perspectivă comportamentală și biologică", url: `${siteUrl}/articole/doispe` },
   { position: 15, name: "Moduri diferite prin care oamenii privesc realitatea interpersonală", url: `${siteUrl}/articole/treispe` },
-  { position: 16, name: "Dinamica dintre stabilitatea funcțională si stabilitatea emoțională în cuplu", url: `${siteUrl}/articole/saispe` },
+  { position: 16, name: "Dinamica dintre stabilitatea funcțională si stabilitatea emoțională în cuplu", url: `${siteUrl}/articole/paispe` },
+  { position: 17, name: "Dinamica unui cuplu în care ambii parteneri caută stabilitate funcțională", url: `${siteUrl}/articole/cinspe` },
+  { position: 18, name: "Dinamica unui cuplu în care ambii parteneri caută stabilitate emoțională", url: `${siteUrl}/articole/saispe` },
 ];
 
 export const siteNavScript = {

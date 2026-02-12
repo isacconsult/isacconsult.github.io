@@ -111,6 +111,23 @@ const articleData = [
     date: '10 Feb',
     index: 14
   },
+  {
+    title: 'Dinamica unui cuplu în care ambii parteneri caută stabilitate funcțională',
+    slug: 'cinspe',
+    desc: 'Există cupluri în care ambii parteneri își obțin liniștea ...',
+    image: 'stabilitate_functionala.jpg',
+    date: '11 Feb',
+    index: 15
+  },
+  {
+    title: 'Dinamica unui cuplu în care ambii parteneri caută stabilitate emoțională',
+    slug: 'saispe',
+    desc: 'Există cupluri în care ambii parteneri își obțin liniștea ...',
+    image: 'stabilitate_emotionala.jpg',
+    date: '12 Feb',
+    index: 16
+  },
+ 
 ]
 
 export default articleData;
