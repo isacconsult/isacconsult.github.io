@@ -20,6 +20,7 @@ export const navigationItems = [
   { position: 17, name: "Dinamica unui cuplu în care ambii parteneri caută stabilitate funcțională", url: `${siteUrl}/articole/cinspe` },
   { position: 18, name: "Dinamica unui cuplu în care ambii parteneri caută stabilitate emoțională", url: `${siteUrl}/articole/saispe` },
   { position: 19, name: "Alte tipuri de relație", url: `${siteUrl}/articole/saptespe` },
+  { position: 20, name: "Starea biologică, gândul și conflictul uman - explicație pe înțelesul oamenilor", url: `${siteUrl}/articole/opspe` },
 ];
 
 export const siteNavScript = {

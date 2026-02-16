@@ -135,6 +135,14 @@ const articleData = [
     date: '13 Feb',
     index: 17
   },
+  {
+    title: 'Starea biologică, gândul și conflictul uman - explicație pe înțelesul oamenilor',
+    slug: 'opspe',
+    desc: 'Majoritatea oamenilor cred că viața lor este influențată de evenimente ...',
+    image: 'starea.jpg',
+    date: '16 Feb',
+    index: 18
+  },
 ]
 
 export default articleData;
