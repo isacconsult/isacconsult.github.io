@@ -22,6 +22,7 @@ export const navigationItems = [
   { position: 19, name: "Alte tipuri de relație", url: `${siteUrl}/articole/saptespe` },
   { position: 20, name: "Starea biologică, gândul și conflictul uman - explicație pe înțelesul oamenilor", url: `${siteUrl}/articole/opspe` },
   { position: 21, name: "De ce unii oameni nu te lasă în pace - ghid de prevenție (pe înțelesul oricui)", url: `${siteUrl}/articole/nouaspe` },
+  { position: 22, name: "Mecanismul comportamentului de hărțuire și agresiune", url: `${siteUrl}/articole/douazeci` },
 ];
 
 export const siteNavScript = {

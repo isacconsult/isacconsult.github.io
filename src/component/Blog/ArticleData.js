@@ -151,6 +151,14 @@ const articleData = [
     date: '17 Feb',
     index: 19
   },
+  {
+    title: 'Mecanismul comportamentului de hărțuire și agresiune',
+    slug: 'douazeci',
+    desc: 'În analiza comportamentului uman, nu orice agresiune pornește din ură ...',
+    image: 'hartuire.jpg',
+    date: '17 Feb',
+    index: 20
+  },
 ]
 
 export default articleData;
