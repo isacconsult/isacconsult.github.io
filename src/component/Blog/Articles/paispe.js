@@ -60,8 +60,7 @@ return <div className="articol">
         Înțelegerea acestei diferențe nu schimbă doar interpretarea conflictului, 
         ci permite găsirea unor comportamente prin care fiecare își poate obține liniștea fără să-l mai destabilizeze pe celălalt.</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

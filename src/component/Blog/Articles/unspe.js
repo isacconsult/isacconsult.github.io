@@ -36,8 +36,7 @@ return <div className="articol">
       <p className="bold_text">Este important să știi ca atașamentul nu este despre a ține pe cineva cu forța.
        Atașamentul sănătos este despre a fi bine impreună , nu despre a te pierde pe tine ca să nu pierzi pe altcineva.</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

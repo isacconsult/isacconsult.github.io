@@ -51,8 +51,7 @@ return <div className="articol">
         Nu apar conflicte majore, dar nici intensitate emoțională. 
         Relația rezistă deoarece fiecare își obține liniștea prin ordine și controlul situației, nu prin conexiune emotională.</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

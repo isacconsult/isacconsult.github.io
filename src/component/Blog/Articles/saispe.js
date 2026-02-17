@@ -46,8 +46,7 @@ return <div className="articol">
         Relația poate fi intensă și satisfăcătoare, dar necesită implicare continuă, 
         deoarece echilibrul depinde de contactul afectiv constant dintre cei doi parteneri.</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

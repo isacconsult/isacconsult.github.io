@@ -53,8 +53,7 @@ return <div className="articol">
         și a interpretărilor greșite în relațiile interpersonale.</p>
       <p style={{ marginBottom: "25px"}} />
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

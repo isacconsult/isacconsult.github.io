@@ -49,11 +49,10 @@ return <div className="articol">
         Când organismul este reglat, gândirea devine clară, relațiile se stabilizează și deciziile devin funcționale.
         Când organismul este în alertă, chiar si realitatea normala poate fi percepută ca amenințare.</p>
       <p style={{ marginBottom: "15px"}} />
-      <p>Prin urmare, nu evenimentul este prima cauză a comportamentului, 
-        ci starea biologică din care acel eveniment este interpretat.</p>
+      <p>Prin urmare, nu <span className="bold_text">evenimentul</span> este prima cauză a comportamentului, 
+        ci <span className="bold_text">starea biologică</span> din care acel eveniment este interpretat.</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

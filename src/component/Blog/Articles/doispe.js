@@ -90,8 +90,7 @@ return <div className="articol">
         <p>10. <span className="bold_text">American Psychiatric Association (2013).</span> DSM-5.</p>
         <p>— Context pentru ințelegerea mediilor familiale disfuncționale (fără patologizare excesivă).</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

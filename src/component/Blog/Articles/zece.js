@@ -49,8 +49,7 @@ return <div className="articol">
         Întrebarea nu este doar dacă funcționeazã, ci cât te costă pe termen lung. 
         Iar dacă nu schimbi nimic, corpul va schimba el pentru tine, mai devreme sau mai târziu.</p>
      </div>  
-     <p style={{ marginBottom: "25px"}} />
-     <p style={{ marginTop: "25px"}}>✻ ✻ ✻</p>
+     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
 };
 

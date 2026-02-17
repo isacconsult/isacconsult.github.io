@@ -82,7 +82,7 @@ const articleData = [
   {
     title: 'După despărțire',
     slug: 'unspe',
-    desc: 'De aceea, după o despărțire, nu îți lipsește doar „el" sau „ea"...',
+    desc: 'De aceea, după o despărțire, nu îți lipsește doar „el" sau „ea" ...',
     image: 'despartire.jpg',
     date: '2 Feb',
     index: 11
@@ -142,6 +142,14 @@ const articleData = [
     image: 'starea.jpg',
     date: '16 Feb',
     index: 18
+  },
+  {
+    title: 'De ce unii oameni nu te lasă în pace - ghid de prevenție (pe înțelesul oricui)',
+    slug: 'nouaspe',
+    desc: 'Mulți oameni cred că hărțuirea apare din ură ...',
+    image: 'in_pace.jpg',
+    date: '17 Feb',
+    index: 19
   },
 ]
 
