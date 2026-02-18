@@ -159,6 +159,14 @@ const articleData = [
     date: '17 Feb',
     index: 20
   },
+  {
+    title: 'Starea biologică și modul în care ne influențează viața',
+    slug: 'douașunu',
+    desc: 'Majoritatea oamenilor cred că neliniștea, conflictele și suferința apar direct din problemele vieții ...',
+    image: 'stare_biologica.jpg',
+    date: '18 Feb',
+    index: 21
+  },
 ]
 
 export default articleData;
