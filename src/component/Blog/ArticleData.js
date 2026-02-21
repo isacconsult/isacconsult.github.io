@@ -167,6 +167,14 @@ const articleData = [
     date: '18 Feb',
     index: 21
   },
+  {
+    title: 'Nu alegi după chef. Alegi după efect biologic',
+    slug: 'douașdoi',
+    desc: 'În viața de zi cu zi oamenii cred că deciziile pornesc din voință.',
+    image: 'chef.jpg',
+    date: '21 Feb',
+    index: 22
+  },
 ]
 
 export default articleData;

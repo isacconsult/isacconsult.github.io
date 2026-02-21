@@ -14,10 +14,10 @@ return <div className="articol">
         Această stare apare înaintea gândului și determină modul în care gândim.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Ordinea reală a reacției umane nu este: </p>
-      <p>eveniment → gând → emoție → comportament.</p>
+      <p className="bold_text">eveniment → gând → emoție → comportament.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Ordinea este: </p>
-      <p>stare biologică → gând → interpretare → emoție → comportament → consecința.</p>
+      <p className="bold_text">stare biologică → gând → interpretare → emoție → comportament → consecința.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Creierul nu produce gânduri in mod liber. El încearcă să explice ceea ce corpul simte. 
         Dacă organismul este în alertă, creierul produce gânduri de pericol. 

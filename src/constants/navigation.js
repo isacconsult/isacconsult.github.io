@@ -24,6 +24,7 @@ export const navigationItems = [
   { position: 21, name: "De ce unii oameni nu te lasă în pace - ghid de prevenție (pe înțelesul oricui)", url: `${siteUrl}/articole/nouaspe` },
   { position: 22, name: "Mecanismul comportamentului de hărțuire și agresiune", url: `${siteUrl}/articole/douazeci` },
   { position: 23, name: "Starea biologică și modul în care ne influențează viața", url: `${siteUrl}/articole/douașunu` },
+  { position: 24, name: "Nu alegi după chef. Alegi după efect biologic", url: `${siteUrl}/articole/douașdoi` },
 ];
 
 export const siteNavScript = {
