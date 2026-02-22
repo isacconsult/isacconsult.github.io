@@ -26,6 +26,7 @@ export const navigationItems = [
   { position: 23, name: "Starea biologică și modul în care ne influențează viața", url: `${siteUrl}/articole/douașunu` },
   { position: 24, name: "Nu alegi după chef. Alegi după efect biologic", url: `${siteUrl}/articole/douașdoi` },
   { position: 25, name: "Imaginea noastră despre oameni", url: `${siteUrl}/articole/douaștrei` },
+  { position: 26, name: "Conștientizarea proiecției: ce se întâmplă când înțelegem că nu interacționăm cu persoana reală, ci cu imaginea noastră despre ea", url: `${siteUrl}/articole/douașpatru` },
 ];
 
 export const siteNavScript = {

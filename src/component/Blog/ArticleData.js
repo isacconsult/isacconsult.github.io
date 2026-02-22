@@ -183,6 +183,16 @@ const articleData = [
     date: '22 Feb',
     index: 23
   },
+  {
+    title: 'Conștientizarea proiecției: ce se întâmplă când înțelegem că nu interacționăm cu persoana reală, ci cu imaginea noastră despre ea',
+    slug: 'douașpatru',
+    desc: 'În mod obișnuit, oamenii sunt convinși că relațiile lor se desfășoară direct între două persoane reale.',
+    image: 'oameni_1.jpg',
+    date: '22 Feb',
+    index: 24
+  },
+
+  
 ]
 
 export default articleData;
