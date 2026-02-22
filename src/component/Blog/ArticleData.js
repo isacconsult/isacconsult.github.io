@@ -170,10 +170,18 @@ const articleData = [
   {
     title: 'Nu alegi după chef. Alegi după efect biologic',
     slug: 'douașdoi',
-    desc: 'În viața de zi cu zi oamenii cred că deciziile pornesc din voință.',
+    desc: 'În viața de zi cu zi oamenii cred că deciziile pornesc din voință ...',
     image: 'chef.jpg',
     date: '21 Feb',
     index: 22
+  },
+  {
+    title: 'Imaginea noastră despre oameni',
+    slug: 'douaștrei',
+    desc: 'În viața de zi cu zi oamenii cred că relațiile sunt simple ...',
+    image: 'oameni.jpg',
+    date: '22 Feb',
+    index: 23
   },
 ]
 

@@ -62,9 +62,7 @@ return <div className="articol">
       <p style={{ marginBottom: "15px"}} />
       <p>Nu voința creează energia, ci acțiunea creeaza voința. 
         Nu cheful produce comportamentul, ci comportamentul produce cheful.</p>
-      <p style={{ marginBottom: "15px"}} />
-      <p></p>
-      <p></p>    
+      <p style={{ marginBottom: "15px"}} />  
     </div>
     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>

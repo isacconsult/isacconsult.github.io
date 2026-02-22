@@ -25,6 +25,7 @@ export const navigationItems = [
   { position: 22, name: "Mecanismul comportamentului de hărțuire și agresiune", url: `${siteUrl}/articole/douazeci` },
   { position: 23, name: "Starea biologică și modul în care ne influențează viața", url: `${siteUrl}/articole/douașunu` },
   { position: 24, name: "Nu alegi după chef. Alegi după efect biologic", url: `${siteUrl}/articole/douașdoi` },
+  { position: 25, name: "Imaginea noastră despre oameni", url: `${siteUrl}/articole/douaștrei` },
 ];
 
 export const siteNavScript = {
