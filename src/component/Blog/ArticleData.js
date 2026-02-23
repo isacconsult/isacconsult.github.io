@@ -191,8 +191,22 @@ const articleData = [
     date: '22 Feb',
     index: 24
   },
-
-  
+  {
+    title: 'De ce o relație bună se simte în corp, nu doar în inimă',
+    slug: 'douașcinci',
+    desc: 'Oamenii cred că relațiile se țin prin iubire, prin dor sau prin cât de mult te gândești la celălalt.',
+    image: 'relatie_buna.jpg',
+    date: '23 Feb',
+    index: 25
+  },
+  {
+    title: 'De ce oamenii nu fac ceea ce înțeleg - rolul stării biologice în decizie și comportament',
+    slug: 'douașsase',
+    desc: 'În viața de zi cu zi observăm frecvent un paradox ...',
+    image: 'paradox.jpg',
+    date: '23 Feb',
+    index: 26
+  },
 ]
 
 export default articleData;

@@ -27,6 +27,8 @@ export const navigationItems = [
   { position: 24, name: "Nu alegi după chef. Alegi după efect biologic", url: `${siteUrl}/articole/douașdoi` },
   { position: 25, name: "Imaginea noastră despre oameni", url: `${siteUrl}/articole/douaștrei` },
   { position: 26, name: "Conștientizarea proiecției: ce se întâmplă când înțelegem că nu interacționăm cu persoana reală, ci cu imaginea noastră despre ea", url: `${siteUrl}/articole/douașpatru` },
+  { position: 27, name: "De ce o relație bună se simte în corp, nu doar în inimă", url: `${siteUrl}/articole/douașcinci` },
+  { position: 28, name: "De ce oamenii nu fac ceea ce înțeleg - rolul stării biologice în decizie și comportament", url: `${siteUrl}/articole/douașsase` },
 ];
 
 export const siteNavScript = {
