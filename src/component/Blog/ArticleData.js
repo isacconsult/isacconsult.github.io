@@ -208,7 +208,7 @@ const articleData = [
     index: 26
   },
   {
-    title: 'De ce o persoană te alege, iar apoi se desparte - explicație biologică si psihică, pe înțelesul tuturor',
+    title: 'De ce o persoană te alege, iar apoi se desparte - explicație biologică sș psihică, pe înțelesul tuturor',
     slug: 'douașsapte',
     desc: 'Mulți oameni trăiesc aceeași nedumerire: la început cineva te cauta, te dorește ...',
     image: 'alegere_despartire.jpg',
@@ -223,6 +223,22 @@ const articleData = [
     date: '25 Feb',
     index: 28
   }, 
+  {
+    title: 'De ce omul ințelege abia după ce face, nu înainte',
+    slug: 'douașnoua',
+    desc: 'În mod obișnuit oamenii cred că schimbarea apare prin explicații ...',
+    image: 'actiune.jpg',
+    date: '26 Feb',
+    index: 29
+  }, 
+  {
+    title: 'Comportamentul nou creează omul nou',
+    slug: 'treizeci',
+    desc: 'În mod obișnuit oamenii cred că schimbarea personală începe cu o idee',
+    image: 'omul_nou.jpg',
+    date: '26 Feb',
+    index: 30
+  }
 ]
 
 export default articleData;

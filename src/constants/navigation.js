@@ -31,6 +31,8 @@ export const navigationItems = [
   { position: 28, name: "De ce oamenii nu fac ceea ce înțeleg - rolul stării biologice în decizie și comportament", url: `${siteUrl}/articole/douașsase` },
   { position: 29, name: "De ce o persoană te alege, iar apoi se desparte - explicație biologică si psihică, pe înțelesul tuturor", url: `${siteUrl}/articole/douașsapte` },
   { position: 30, name: "Cum se aleg oamenii (Modelul ISAC CONSULT)", url: `${siteUrl}/articole/douașopt` },
+  { position: 31, name: "De ce omul ințelege abia după ce face, nu înainte", url: `${siteUrl}/articole/douașnoua` },
+  { position: 32, name: "Comportamentul nou creează omul nou", url: `${siteUrl}/articole/treizeci` },
 ];
 
 export const siteNavScript = {
