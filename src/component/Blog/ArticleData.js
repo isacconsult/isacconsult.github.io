@@ -207,6 +207,22 @@ const articleData = [
     date: '23 Feb',
     index: 26
   },
+  {
+    title: 'De ce o persoană te alege, iar apoi se desparte - explicație biologică si psihică, pe înțelesul tuturor',
+    slug: 'douașsapte',
+    desc: 'Mulți oameni trăiesc aceeași nedumerire: la început cineva te cauta, te dorește ...',
+    image: 'alegere_despartire.jpg',
+    date: '24 Feb',
+    index: 27
+  },
+  {
+    title: 'Cum se aleg oamenii (Modelul ISAC CONSULT)',
+    slug: 'douașopt',
+    desc: 'Majoritatea oamenilor cred că aleg o relație pentru că iubesc, admiră sau se potrivesc cu cineva.',
+    image: 'alegere.jpg',
+    date: '25 Feb',
+    index: 28
+  }, 
 ]
 
 export default articleData;

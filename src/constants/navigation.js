@@ -29,6 +29,8 @@ export const navigationItems = [
   { position: 26, name: "Conștientizarea proiecției: ce se întâmplă când înțelegem că nu interacționăm cu persoana reală, ci cu imaginea noastră despre ea", url: `${siteUrl}/articole/douașpatru` },
   { position: 27, name: "De ce o relație bună se simte în corp, nu doar în inimă", url: `${siteUrl}/articole/douașcinci` },
   { position: 28, name: "De ce oamenii nu fac ceea ce înțeleg - rolul stării biologice în decizie și comportament", url: `${siteUrl}/articole/douașsase` },
+  { position: 29, name: "De ce o persoană te alege, iar apoi se desparte - explicație biologică si psihică, pe înțelesul tuturor", url: `${siteUrl}/articole/douașsapte` },
+  { position: 30, name: "Cum se aleg oamenii (Modelul ISAC CONSULT)", url: `${siteUrl}/articole/douașopt` },
 ];
 
 export const siteNavScript = {
