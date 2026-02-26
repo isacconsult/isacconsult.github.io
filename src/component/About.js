@@ -22,7 +22,7 @@ class About extends Component {
                                      smooth={true}
                                      offset={-86}
                                      duration={500}
-                                     className="theme_btn active nav-link">👉 ISAC Rapid — 10 minute</Link>
+                                     className="theme_btn nav-link">👉 ISAC Rapid — 10 minute</Link>
                                 </div>
                             </Fade>
                         </div>

@@ -48,7 +48,7 @@ return <div className="articol">
       <p style={{ marginBottom: "15px"}} />
       <p>Concluzia este clară: nu trebuie să așteptăm să înțeleagă cineva pentru a se schimba. 
         Trebuie să facă diferit. Când comportamentul se schimbă, se schimbă starea internă, iar când starea internă se schimbă, 
-        apare și ințelegerea. Mintea acceptă abia dupã ce corpul se liniștește.</p>  
+        apare și ințelegerea. Mintea acceptă abia după ce corpul se liniștește.</p>  
     </div>
     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>

@@ -33,6 +33,7 @@ export const navigationItems = [
   { position: 30, name: "Cum se aleg oamenii (Modelul ISAC CONSULT)", url: `${siteUrl}/articole/douașopt` },
   { position: 31, name: "De ce omul ințelege abia după ce face, nu înainte", url: `${siteUrl}/articole/douașnoua` },
   { position: 32, name: "Comportamentul nou creează omul nou", url: `${siteUrl}/articole/treizeci` },
+  { position: 33, name: "Pe românește: ce face psihologul și ce fac eu", url: `${siteUrl}/articole/treizeciunu` },
 ];
 
 export const siteNavScript = {

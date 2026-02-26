@@ -1,6 +1,6 @@
-import React, {Component} from 'react';
+import { Component } from 'react';
 import Reveal from 'react-reveal';
-import {Link} from 'react-scroll';
+import { Link } from 'react-scroll';
 
 class Oferta extends Component{
     render(){

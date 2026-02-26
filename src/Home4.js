@@ -11,7 +11,7 @@ import CtaFinal from './component/CtaFinal'
 import Skill from './component/Skill/Skill';
 import Footer from './component/Footer';
 import isacData from './component/isacData';
-// import Portfolio from './component/Portfolio/Portfolio';
+import PsihologVsEu from './component/PsihologVsEu';
 // import Testimonial from './component/Testimonial/Testimonial';
 // import Clientslogo from './component/Clientslogo';
 // require('../../image/Sail-Away.jpg') 
@@ -23,6 +23,7 @@ export const Home4 = () => (
       <About aClass="about_area" isacData={isacData}/> 
       <Service wClass="work_area" isacData={isacData}/>
       <SchemaIsac wClass="work_area_two" isacData={isacData}/>
+      <PsihologVsEu wClass="work_area_two"/>
       <CuCineLucrez wClass="work_area" isacData={isacData}/>
       <Oferta wClass="work_area_two" isacData={isacData}/>
       <CtaFinal wClass="work_area"/>

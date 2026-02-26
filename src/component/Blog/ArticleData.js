@@ -238,6 +238,14 @@ const articleData = [
     image: 'omul_nou.jpg',
     date: '26 Feb',
     index: 30
+  }, 
+  {
+    title: 'Pe românește: ce face psihologul și ce fac eu',
+    slug: 'treizeciunu',
+    desc: 'Oamenii cred că atunci când au o problemă au nevoie doar sã o înțeleagă.',
+    image: 'isac_creion.jpg',
+    date: '27 Feb',
+    index: 31
   }
 ]
 
