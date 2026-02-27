@@ -14,7 +14,7 @@ class PsihologVsEu extends Component{
                       <p className="mb_0 title_p">Psihologul: te ajută să te înțelegi.</p>
                     </Reveal>
                     <Reveal  effect="fadeInUp" duration={1500}>
-                      <p className="mb_0 bold_text">Eu: te ajut să nu mai pățesti acelasi lucru.</p>
+                      <p className="mb_0 bold_text">Eu: te ajut să nu mai pățesti acelși lucru.</p>
                     </Reveal>
                     <Reveal  effect="fadeInUp" duration={1500}>
                       <p className="mb_0 title_p">Psihologul lucrează cu ce este în capul tău.</p>

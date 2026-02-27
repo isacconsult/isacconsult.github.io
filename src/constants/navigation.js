@@ -34,6 +34,9 @@ export const navigationItems = [
   { position: 31, name: "De ce omul ințelege abia după ce face, nu înainte", url: `${siteUrl}/articole/douașnoua` },
   { position: 32, name: "Comportamentul nou creează omul nou", url: `${siteUrl}/articole/treizeci` },
   { position: 33, name: "Pe românește: ce face psihologul și ce fac eu", url: `${siteUrl}/articole/treizeciunu` },
+  { position: 34, name: 'Ce înseamnă de fapt „îti pasă"', url: `${siteUrl}/articole/treizecidoi` },
+  { position: 35, name: 'De ce creierul preferă impactul emoțional în locul liniștii - pacea psihică versus certitudinea biologică', url: `${siteUrl}/articole/treizecitrei` },
+  { position: 36, name: 'Certitudinea din punct de vedere biologic — de ce creierul caută reacția, nu liniștea', url: `${siteUrl}/articole/treizecipatru` },  
 ];
 
 export const siteNavScript = {

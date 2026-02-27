@@ -246,7 +246,31 @@ const articleData = [
     image: 'isac_creion.jpg',
     date: '27 Feb',
     index: 31
-  }
+  },
+  {
+    title: 'Ce înseamnă de fapt „îți pasă"',
+    slug: 'treizecidoi',
+    desc: 'Oamenii cred că: îmi pasă = iubire / atașament / caracter ...',
+    image: 'liniste_interna.jpg',
+    date: '28 Feb',
+    index: 32
+  },
+  {
+    title: 'De ce creierul preferă impactul emoțional în locul liniștii - pacea psihică versus certitudinea biologică',
+    slug: 'treizecitrei',
+    desc: 'În relațiile umane apare frecvent un paradox ...',
+    image: 'liniste_interna.jpg',
+    date: '28 Feb',
+    index: 33
+  },
+  {
+    title: 'Certitudinea din punct de vedere biologic — de ce creierul caută reacția, nu liniștea',
+    slug: 'treizecipatru',
+    desc: 'Când vorbim despre „certitudine" oamenii se gândesc la ceva mental: sa știu sigur ...',
+    image: 'creierul_reactie.jpg',
+    date: '29 Feb',
+    index: 34
+  },
 ]
 
 export default articleData;
