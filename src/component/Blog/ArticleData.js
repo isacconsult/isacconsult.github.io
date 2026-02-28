@@ -251,7 +251,7 @@ const articleData = [
     title: 'Ce înseamnă de fapt „îți pasă"',
     slug: 'treizecidoi',
     desc: 'Oamenii cred că: îmi pasă = iubire / atașament / caracter ...',
-    image: 'liniste_interna.jpg',
+    image: 'imi_pasa.jpg',
     date: '28 Feb',
     index: 32
   },
@@ -271,6 +271,24 @@ const articleData = [
     date: '29 Feb',
     index: 34
   },
+  {
+    title: 'Intenția aparține celui care acționează, consecința aparține celui care trăiește acțiunea',
+    slug: 'treizecicinci',
+    desc: 'În majoritatea conflictelor dintre oameni apare aceeași neînțelegere ...',
+    image: 'intentie_consecinta.jpg',
+    date: '29 Feb',
+    index: 35
+  },
+  {
+    title: 'De ce creierul trebuie reglat biologic înainte de a fi înțeles psihologic',
+    slug: 'treizecisase',
+    desc: 'În viața de zi cu zi oamenii încearcă să-și rezolve stările prin explicații ...',
+    image: 'creier_reglat.jpg',
+    date: '1 Mar',
+    index: 36
+  },
+
+  
 ]
 
 export default articleData;

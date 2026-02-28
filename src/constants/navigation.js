@@ -36,7 +36,9 @@ export const navigationItems = [
   { position: 33, name: "Pe românește: ce face psihologul și ce fac eu", url: `${siteUrl}/articole/treizeciunu` },
   { position: 34, name: 'Ce înseamnă de fapt „îti pasă"', url: `${siteUrl}/articole/treizecidoi` },
   { position: 35, name: 'De ce creierul preferă impactul emoțional în locul liniștii - pacea psihică versus certitudinea biologică', url: `${siteUrl}/articole/treizecitrei` },
-  { position: 36, name: 'Certitudinea din punct de vedere biologic — de ce creierul caută reacția, nu liniștea', url: `${siteUrl}/articole/treizecipatru` },  
+  { position: 36, name: 'Certitudinea din punct de vedere biologic — de ce creierul caută reacția, nu liniștea', url: `${siteUrl}/articole/treizecipatru` },
+  { position: 37, name: 'Intenția aparține celui care acționează, consecința aparține celui care trăiește acțiunea', url: `${siteUrl}/articole/treizecicinci` },
+  { position: 38, name: 'De ce creierul trebuie reglat biologic înainte de a fi înțeles psihologic', url: `${siteUrl}/articole/treizecisase` },    
 ];
 
 export const siteNavScript = {
