@@ -287,6 +287,14 @@ const articleData = [
     date: '1 Mar',
     index: 36
   },
+  {
+    title: 'De ce omul te ințelege abia dupa ce relația s-a terminat',
+    slug: 'treizecisapte',
+    desc: 'În multe relații apare aceeași situație: cât timp doi oameni sunt împreună ...',
+    image: 'intelegere.jpg',
+    date: '1 Mar',
+    index: 37
+  },
 
   
 ]

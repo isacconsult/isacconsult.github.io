@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.aecadd2e.js",
+    "main.js": "/static/js/main.faeb8b43.js",
     "static/js/947.7bb012a1.chunk.js": "/static/js/947.7bb012a1.chunk.js",
     "static/js/337.110a3930.chunk.js": "/static/js/337.110a3930.chunk.js",
     "static/js/241.8932c9cd.chunk.js": "/static/js/241.8932c9cd.chunk.js",
@@ -29,8 +29,10 @@
     "static/js/793.6cb56400.chunk.js": "/static/js/793.6cb56400.chunk.js",
     "static/js/767.30656c08.chunk.js": "/static/js/767.30656c08.chunk.js",
     "static/js/856.0885f3f4.chunk.js": "/static/js/856.0885f3f4.chunk.js",
+    "static/js/676.2d9173d3.chunk.js": "/static/js/676.2d9173d3.chunk.js",
     "static/js/94.2f2a11ce.chunk.js": "/static/js/94.2f2a11ce.chunk.js",
     "static/js/86.acd4aad4.chunk.js": "/static/js/86.acd4aad4.chunk.js",
+    "static/js/140.56cb147e.chunk.js": "/static/js/140.56cb147e.chunk.js",
     "static/js/920.ecbb8f3e.chunk.js": "/static/js/920.ecbb8f3e.chunk.js",
     "static/js/408.952a0d77.chunk.js": "/static/js/408.952a0d77.chunk.js",
     "static/js/586.8a95b11b.chunk.js": "/static/js/586.8a95b11b.chunk.js",
@@ -39,7 +41,9 @@
     "static/media/hartuire.jpg": "/static/media/hartuire.0fd9f7f36dee29e4a88c.jpg",
     "static/media/costul.jpg": "/static/media/costul.00468ccb09b123f07ca3.jpg",
     "static/media/creierul_reactie.jpg": "/static/media/creierul_reactie.0c66da3f61b19ccaf72e.jpg",
+    "static/media/imi_pasa.jpg": "/static/media/imi_pasa.ec1bd982c9cc99ab4966.jpg",
     "static/media/liniste_interna.jpg": "/static/media/liniste_interna.cd1578b60e6b6bfb94c5.jpg",
+    "static/media/intentie_consecinta.jpg": "/static/media/intentie_consecinta.279351b9aa1e03f02ae2.jpg",
     "static/media/comportamente.jpg": "/static/media/comportamente.5dcf11c826e39fdb1904.jpg",
     "static/media/actiune.jpg": "/static/media/actiune.beea8df6543bd9a6d02b.jpg",
     "static/media/realitate_interpersonala.jpg": "/static/media/realitate_interpersonala.faccc57e7369c5c3a754.jpg",
@@ -57,6 +61,7 @@
     "static/media/om.jpg": "/static/media/om.8b4c6907c7115a5b5a68.jpg",
     "static/media/consultanta.jpg": "/static/media/consultanta.3a21f7a1277cef619e1b.jpg",
     "static/media/parinti.jpg": "/static/media/parinti.570bd89f994110045b9f.jpg",
+    "static/media/creier_reglat.jpg": "/static/media/creier_reglat.8b17470b4b4168ff245a.jpg",
     "static/media/adult1.jpg": "/static/media/adult1.c2048f700055460fb60f.jpg",
     "static/media/stabilitate.jpg": "/static/media/stabilitate.943c7ead2d944145c336.jpg",
     "static/media/young.jpg": "/static/media/young.47a64ade5edb0d7eeb7a.jpg",
@@ -122,7 +127,7 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.aecadd2e.js.map": "/static/js/main.aecadd2e.js.map",
+    "main.faeb8b43.js.map": "/static/js/main.faeb8b43.js.map",
     "947.7bb012a1.chunk.js.map": "/static/js/947.7bb012a1.chunk.js.map",
     "337.110a3930.chunk.js.map": "/static/js/337.110a3930.chunk.js.map",
     "241.8932c9cd.chunk.js.map": "/static/js/241.8932c9cd.chunk.js.map",
@@ -150,8 +155,10 @@
     "793.6cb56400.chunk.js.map": "/static/js/793.6cb56400.chunk.js.map",
     "767.30656c08.chunk.js.map": "/static/js/767.30656c08.chunk.js.map",
     "856.0885f3f4.chunk.js.map": "/static/js/856.0885f3f4.chunk.js.map",
+    "676.2d9173d3.chunk.js.map": "/static/js/676.2d9173d3.chunk.js.map",
     "94.2f2a11ce.chunk.js.map": "/static/js/94.2f2a11ce.chunk.js.map",
     "86.acd4aad4.chunk.js.map": "/static/js/86.acd4aad4.chunk.js.map",
+    "140.56cb147e.chunk.js.map": "/static/js/140.56cb147e.chunk.js.map",
     "920.ecbb8f3e.chunk.js.map": "/static/js/920.ecbb8f3e.chunk.js.map",
     "408.952a0d77.chunk.js.map": "/static/js/408.952a0d77.chunk.js.map",
     "586.8a95b11b.chunk.js.map": "/static/js/586.8a95b11b.chunk.js.map",
@@ -160,6 +167,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.aecadd2e.js"
+    "static/js/main.faeb8b43.js"
   ]
 }
