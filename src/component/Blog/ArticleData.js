@@ -295,8 +295,14 @@ const articleData = [
     date: '1 Mar',
     index: 37
   },
-
-  
+  {
+    title: 'De ce oamenii reacționeaza la starea noastră și nu la intențiile noastre',
+    slug: 'treizeciopt',
+    desc: 'În viața socială apare frecvent o situație aparent nedreaptă ...',
+    image: 'reactie.jpg',
+    date: '1 Mar',
+    index: 38
+  },
 ]
 
 export default articleData;
