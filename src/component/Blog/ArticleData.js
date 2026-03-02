@@ -296,13 +296,23 @@ const articleData = [
     index: 37
   },
   {
-    title: 'De ce oamenii reacționeaza la starea noastră și nu la intențiile noastre',
+    title: 'De ce oamenii reacționează la starea noastră și nu la intențiile noastre',
     slug: 'treizeciopt',
     desc: 'În viața socială apare frecvent o situație aparent nedreaptă ...',
     image: 'reactie.jpg',
     date: '1 Mar',
     index: 38
   },
+  {
+    title: 'De ce unele relații se mențin prin conflict — reglarea biologică interpersonală',
+    slug: 'treizecinoua',
+    desc: 'În mod obișnuit oamenii cred că o ceartă apare din neînțelegeri, orgoliu sau diferențe de caracter.',
+    image: 'relatii_conflictuale.jpg',
+    date: '2 Mar',
+    index: 39
+  },
+
+  
 ]
 
 export default articleData;

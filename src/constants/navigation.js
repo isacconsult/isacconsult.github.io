@@ -41,6 +41,7 @@ export const navigationItems = [
   { position: 38, name: 'De ce creierul trebuie reglat biologic înainte de a fi înțeles psihologic', url: `${siteUrl}/articole/treizecisase` },    
   { position: 39, name: 'De ce omul te ințelege abia dupa ce relația s-a terminat', url: `${siteUrl}/articole/treizecisapte` },
   { position: 39, name: 'De ce oamenii reacționeaza la starea noastră și nu la intențiile noastre', url: `${siteUrl}/articole/treizeciopt` },
+  { position: 40, name: 'De ce unele relații se mențin prin conflict — reglarea biologică interpersonală', url: `${siteUrl}/articole/treizecinoua` },
 ];
 
 export const siteNavScript = {
