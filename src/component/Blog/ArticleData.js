@@ -311,6 +311,14 @@ const articleData = [
     date: '2 Mar',
     index: 39
   },
+  {
+    title: 'Ce face creierul când apare o altă persoană',
+    slug: 'patruzeci',
+    desc: 'Creierul are o sarcină principală: să te mențină în viată cu consum minim de energie.',
+    image: 'creier_persoana.jpg',
+    date: '3 Mar',
+    index: 39
+  },
 
   
 ]
