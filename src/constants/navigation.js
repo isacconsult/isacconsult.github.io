@@ -45,6 +45,7 @@ export const navigationItems = [
   { position: 41, name: 'Ce face creierul când apare o altă persoană', url: `${siteUrl}/articole/patruzeci` },
   { position: 42, name: 'Cum se construiește stabilitatea bio-psiho-socială', url: `${siteUrl}/articole/patruzeciunu` },
   { position: 42, name: 'De ce problemele nu se rezolvă prin gândire', url: `${siteUrl}/articole/patruzecidoi` },
+  { position: 43, name: 'Cum și de ce corpul produce hormoni ai stresului și cum apare anxietatea', url: `${siteUrl}/articole/patruzecitrei` },
 ];
 
 export const siteNavScript = {

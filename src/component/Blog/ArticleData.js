@@ -335,6 +335,16 @@ const articleData = [
     date: '4 Mar',
     index: 42
   },
+  {
+    title: 'Cum și de ce corpul produce hormoni ai stresului și cum apare anxietatea',
+    slug: 'patruzecitrei',
+    desc: 'Organismul uman este construit pentru supraviețuire. Pentru a face față pericolelor sau situațillor ...',
+    image: 'anxietate.jpg',
+    date: '4 Mar',
+    index: 43
+  },
+
+  
   
 ]
 
