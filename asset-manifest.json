@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.da0fc6f8.js",
+    "main.js": "/static/js/main.8308c55d.js",
     "static/js/947.7bb012a1.chunk.js": "/static/js/947.7bb012a1.chunk.js",
     "static/js/337.110a3930.chunk.js": "/static/js/337.110a3930.chunk.js",
     "static/js/241.8932c9cd.chunk.js": "/static/js/241.8932c9cd.chunk.js",
@@ -23,6 +23,8 @@
     "static/js/757.d3039812.chunk.js": "/static/js/757.d3039812.chunk.js",
     "static/js/737.c903b7be.chunk.js": "/static/js/737.c903b7be.chunk.js",
     "static/js/232.3e3bc51c.chunk.js": "/static/js/232.3e3bc51c.chunk.js",
+    "static/js/278.0d3c543f.chunk.js": "/static/js/278.0d3c543f.chunk.js",
+    "static/js/424.0b817bb8.chunk.js": "/static/js/424.0b817bb8.chunk.js",
     "static/js/152.90cc3975.chunk.js": "/static/js/152.90cc3975.chunk.js",
     "static/js/486.676d615c.chunk.js": "/static/js/486.676d615c.chunk.js",
     "static/js/602.87c39f09.chunk.js": "/static/js/602.87c39f09.chunk.js",
@@ -67,6 +69,7 @@
     "static/media/om.jpg": "/static/media/om.8b4c6907c7115a5b5a68.jpg",
     "static/media/consultanta.jpg": "/static/media/consultanta.3a21f7a1277cef619e1b.jpg",
     "static/media/parinti.jpg": "/static/media/parinti.570bd89f994110045b9f.jpg",
+    "static/media/anxietate.jpg": "/static/media/anxietate.6d1556d674ce53cf5b3f.jpg",
     "static/media/creier_reglat.jpg": "/static/media/creier_reglat.8b17470b4b4168ff245a.jpg",
     "static/media/adult1.jpg": "/static/media/adult1.c2048f700055460fb60f.jpg",
     "static/media/stabilitate.jpg": "/static/media/stabilitate.943c7ead2d944145c336.jpg",
@@ -80,6 +83,7 @@
     "static/media/old1.jpg": "/static/media/old1.92109b27b95e62dafd54.jpg",
     "static/media/alte_relatii.jpg": "/static/media/alte_relatii.4da5002152976d44d323.jpg",
     "static/media/relatii_conflictuale.jpg": "/static/media/relatii_conflictuale.894f4e4033f50c9cf06a.jpg",
+    "static/media/gandire_probleme.jpg": "/static/media/gandire_probleme.5fd9cd6889fefd68e437.jpg",
     "static/media/relatie_buna.jpg": "/static/media/relatie_buna.0e9bb5c38c22c13c3130.jpg",
     "static/media/chef.jpg": "/static/media/chef.e507e6cf1be0663f096a.jpg",
     "static/media/nodul.jpg": "/static/media/nodul.aae92895b44b84d6f18b.jpg",
@@ -137,7 +141,7 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.da0fc6f8.js.map": "/static/js/main.da0fc6f8.js.map",
+    "main.8308c55d.js.map": "/static/js/main.8308c55d.js.map",
     "947.7bb012a1.chunk.js.map": "/static/js/947.7bb012a1.chunk.js.map",
     "337.110a3930.chunk.js.map": "/static/js/337.110a3930.chunk.js.map",
     "241.8932c9cd.chunk.js.map": "/static/js/241.8932c9cd.chunk.js.map",
@@ -159,6 +163,8 @@
     "757.d3039812.chunk.js.map": "/static/js/757.d3039812.chunk.js.map",
     "737.c903b7be.chunk.js.map": "/static/js/737.c903b7be.chunk.js.map",
     "232.3e3bc51c.chunk.js.map": "/static/js/232.3e3bc51c.chunk.js.map",
+    "278.0d3c543f.chunk.js.map": "/static/js/278.0d3c543f.chunk.js.map",
+    "424.0b817bb8.chunk.js.map": "/static/js/424.0b817bb8.chunk.js.map",
     "152.90cc3975.chunk.js.map": "/static/js/152.90cc3975.chunk.js.map",
     "486.676d615c.chunk.js.map": "/static/js/486.676d615c.chunk.js.map",
     "602.87c39f09.chunk.js.map": "/static/js/602.87c39f09.chunk.js.map",
@@ -182,6 +188,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.da0fc6f8.js"
+    "static/js/main.8308c55d.js"
   ]
 }
