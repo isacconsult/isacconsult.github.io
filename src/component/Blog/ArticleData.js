@@ -314,7 +314,7 @@ const articleData = [
   {
     title: 'Ce face creierul când apare o altă persoană',
     slug: 'patruzeci',
-    desc: 'Creierul are o sarcină principală: să te mențină în viată cu consum minim de energie.',
+    desc: 'Creierul are o sarcină principală: să te mențină în viață cu consum minim de energie.',
     image: 'creier_persoana.jpg',
     date: '3 Mar',
     index: 40
@@ -326,6 +326,14 @@ const articleData = [
     image: 'stabilitate_bio_psiho_sociala.jpg',
     date: '4 Mar',
     index: 41
+  },
+  {
+    title: 'De ce problemele nu se rezolvă prin gândire',
+    slug: 'patruzecidoi',
+    desc: 'În viața de zi cu zi, oamenii încearcă foarte des să rezolve problemele direct prin gândire.',
+    image: 'gandire_probleme.jpg',
+    date: '4 Mar',
+    index: 42
   },
   
 ]
