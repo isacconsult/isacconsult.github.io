@@ -343,9 +343,14 @@ const articleData = [
     date: '4 Mar',
     index: 43
   },
-
-  
-  
+  {
+    title: 'De ce nu trebuie să așteptăm viitorul și cum se construiește el prin acțiunile noastre',
+    slug: 'patruzecipatru',
+    desc: 'Mulți oameni trăiesc cu ideea că viitorul este ceva care va veni de la sine ...',
+    image: 'viitor_actiuni.jpg',
+    date: '4 Mar',
+    index: 44
+  }, 
 ]
 
 export default articleData;

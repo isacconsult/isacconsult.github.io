@@ -46,6 +46,7 @@ export const navigationItems = [
   { position: 42, name: 'Cum se construiește stabilitatea bio-psiho-socială', url: `${siteUrl}/articole/patruzeciunu` },
   { position: 42, name: 'De ce problemele nu se rezolvă prin gândire', url: `${siteUrl}/articole/patruzecidoi` },
   { position: 43, name: 'Cum și de ce corpul produce hormoni ai stresului și cum apare anxietatea', url: `${siteUrl}/articole/patruzecitrei` },
+  { position: 44, name: 'De ce nu trebuie să așteptăm viitorul și cum se construiește el prin acțiunile noastre', url: `${siteUrl}/articole/patruzecipatru` },
 ];
 
 export const siteNavScript = {

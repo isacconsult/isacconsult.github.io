@@ -62,7 +62,7 @@ return <div className="articol">
         Ea reprezintă un mecanism natural de supraviețuire. 
         Anxietatea apare atunci când energia produsă de acest sistem nu este consumată sau nu este reglată.
         Întelegerea acestui mecanism ajută la abordarea anxietatii nu doar prin gândire, 
-        ci si prin reglarea biologică a organismului.</p>
+        ci și prin reglarea biologică a organismului.</p>
     </div>
     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
