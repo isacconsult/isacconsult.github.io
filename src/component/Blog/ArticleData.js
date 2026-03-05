@@ -317,9 +317,16 @@ const articleData = [
     desc: 'Creierul are o sarcină principală: să te mențină în viată cu consum minim de energie.',
     image: 'creier_persoana.jpg',
     date: '3 Mar',
-    index: 39
+    index: 40
   },
-
+  {
+    title: 'Cum se construiește stabilitatea bio-psiho-socială',
+    slug: 'patruzeciunu',
+    desc: 'Stabilitatea unei persoane nu este un dar genetic și nici un „caracter puternic"',
+    image: 'stabilitate_bio_psiho_sociala.jpg',
+    date: '4 Mar',
+    index: 41
+  },
   
 ]
 

@@ -43,6 +43,7 @@ export const navigationItems = [
   { position: 39, name: 'De ce oamenii reacționeaza la starea noastră și nu la intențiile noastre', url: `${siteUrl}/articole/treizeciopt` },
   { position: 40, name: 'De ce unele relații se mențin prin conflict — reglarea biologică interpersonală', url: `${siteUrl}/articole/treizecinoua` },
   { position: 41, name: 'Ce face creierul când apare o altă persoană', url: `${siteUrl}/articole/patruzeci` },
+  { position: 42, name: 'Cum se construiește stabilitatea bio-psiho-socială', url: `${siteUrl}/articole/patruzeciunu` },
 ];
 
 export const siteNavScript = {
