@@ -351,6 +351,22 @@ const articleData = [
     date: '4 Mar',
     index: 44
   }, 
+  {
+    title: 'De ce oamenii nu cred explicațille pe care le primesc',
+    slug: 'patruzecicinci',
+    desc: 'În viața de zi cu zi se întâmplă frecvent ca o persoană să primească o explicație clară despre o situație ...',
+    image: 'explicatii.jpg',
+    date: '5 Mar',
+    index: 45
+  }, 
+  {
+    title: 'Minciuna la persoanele cu trăsaturi psihopatice și narcisice',
+    slug: 'patruzecisase',
+    desc: 'Minciuna este un comportament întâlnit la mulți oameni în anumite situații ...',
+    image: 'minciuna.jpg',
+    date: '5 Mar',
+    index: 46
+  }, 
 ]
 
 export default articleData;

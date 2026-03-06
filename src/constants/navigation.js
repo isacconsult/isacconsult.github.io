@@ -47,6 +47,8 @@ export const navigationItems = [
   { position: 42, name: 'De ce problemele nu se rezolvă prin gândire', url: `${siteUrl}/articole/patruzecidoi` },
   { position: 43, name: 'Cum și de ce corpul produce hormoni ai stresului și cum apare anxietatea', url: `${siteUrl}/articole/patruzecitrei` },
   { position: 44, name: 'De ce nu trebuie să așteptăm viitorul și cum se construiește el prin acțiunile noastre', url: `${siteUrl}/articole/patruzecipatru` },
+  { position: 45, name: 'De ce oamenii nu cred explicațille pe care le primesc', url: `${siteUrl}/articole/patruzecicinci` },
+  { position: 46, name: 'Minciuna la persoanele cu trăsaturi psihopatice și narcisice', url: `${siteUrl}/articole/patruzecisase` },
 ];
 
 export const siteNavScript = {
