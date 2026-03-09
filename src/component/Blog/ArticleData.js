@@ -288,7 +288,7 @@ const articleData = [
     index: 36
   },
   {
-    title: 'De ce omul te ințelege abia dupa ce relația s-a terminat',
+    title: 'De ce omul te înțelege abia dupa ce relația s-a terminat',
     slug: 'treizecisapte',
     desc: 'În multe relații apare aceeași situație: cât timp doi oameni sunt împreună ...',
     image: 'intelegere.jpg',
@@ -367,6 +367,22 @@ const articleData = [
     date: '5 Mar',
     index: 46
   }, 
+  {
+    title: 'Negarea sociala - mecanismul prin care comunitățile refuză să accepte nedreptatea produsă în interiorul lor',
+    slug: 'patruzecisapte',
+    desc: 'Negarea socială este un fenomen care apare atunci când o comunitate află sau observă ...',
+    image: 'negare_sociala.jpg',
+    date: '9 Mar',
+    index: 47
+  }, 
+  {
+    title: 'Anxietatea anticipativă - teama produsă de ceea ce credem că se va întâmpla',
+    slug: 'patruzeciopt',
+    desc: 'Anxietatea anticipativă este o formă de anxietate care apare atunci când o persoană se teme de ...',
+    image: 'anxietate_anticipativa.jpg',
+    date: '9 Mar',
+    index: 48
+  },
 ]
 
 export default articleData;

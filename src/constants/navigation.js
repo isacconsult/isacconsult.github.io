@@ -39,7 +39,7 @@ export const navigationItems = [
   { position: 36, name: 'Certitudinea din punct de vedere biologic — de ce creierul caută reacția, nu liniștea', url: `${siteUrl}/articole/treizecipatru` },
   { position: 37, name: 'Intenția aparține celui care acționează, consecința aparține celui care trăiește acțiunea', url: `${siteUrl}/articole/treizecicinci` },
   { position: 38, name: 'De ce creierul trebuie reglat biologic înainte de a fi înțeles psihologic', url: `${siteUrl}/articole/treizecisase` },    
-  { position: 39, name: 'De ce omul te ințelege abia dupa ce relația s-a terminat', url: `${siteUrl}/articole/treizecisapte` },
+  { position: 39, name: 'De ce omul te înțelege abia dupa ce relația s-a terminat', url: `${siteUrl}/articole/treizecisapte` },
   { position: 39, name: 'De ce oamenii reacționeaza la starea noastră și nu la intențiile noastre', url: `${siteUrl}/articole/treizeciopt` },
   { position: 40, name: 'De ce unele relații se mențin prin conflict — reglarea biologică interpersonală', url: `${siteUrl}/articole/treizecinoua` },
   { position: 41, name: 'Ce face creierul când apare o altă persoană', url: `${siteUrl}/articole/patruzeci` },
@@ -49,6 +49,10 @@ export const navigationItems = [
   { position: 44, name: 'De ce nu trebuie să așteptăm viitorul și cum se construiește el prin acțiunile noastre', url: `${siteUrl}/articole/patruzecipatru` },
   { position: 45, name: 'De ce oamenii nu cred explicațille pe care le primesc', url: `${siteUrl}/articole/patruzecicinci` },
   { position: 46, name: 'Minciuna la persoanele cu trăsaturi psihopatice și narcisice', url: `${siteUrl}/articole/patruzecisase` },
+  { position: 47, name: 'Negarea sociala - mecanismul prin care comunitățile refuză să accepte nedreptatea produsă în interiorul lor', url: `${siteUrl}/articole/patruzecisapte` },
+  { position: 48, name: 'Anxietatea anticipativă - teama produsă de ceea ce credem că se va întâmpla', url: `${siteUrl}/articole/patruzeciopt` },
+
+
 ];
 
 export const siteNavScript = {

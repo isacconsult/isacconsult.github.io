@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.8812eb68.js",
+    "main.js": "/static/js/main.06429d4f.js",
     "static/js/947.7bb012a1.chunk.js": "/static/js/947.7bb012a1.chunk.js",
     "static/js/337.110a3930.chunk.js": "/static/js/337.110a3930.chunk.js",
     "static/js/241.8932c9cd.chunk.js": "/static/js/241.8932c9cd.chunk.js",
@@ -23,8 +23,10 @@
     "static/js/757.d3039812.chunk.js": "/static/js/757.d3039812.chunk.js",
     "static/js/737.c903b7be.chunk.js": "/static/js/737.c903b7be.chunk.js",
     "static/js/232.3e3bc51c.chunk.js": "/static/js/232.3e3bc51c.chunk.js",
+    "static/js/428.268cb7c7.chunk.js": "/static/js/428.268cb7c7.chunk.js",
     "static/js/278.0d3c543f.chunk.js": "/static/js/278.0d3c543f.chunk.js",
     "static/js/126.8eb6bf6e.chunk.js": "/static/js/126.8eb6bf6e.chunk.js",
+    "static/js/468.3ba2cc82.chunk.js": "/static/js/468.3ba2cc82.chunk.js",
     "static/js/424.82c8c63a.chunk.js": "/static/js/424.82c8c63a.chunk.js",
     "static/js/152.90cc3975.chunk.js": "/static/js/152.90cc3975.chunk.js",
     "static/js/486.676d615c.chunk.js": "/static/js/486.676d615c.chunk.js",
@@ -54,6 +56,7 @@
     "static/media/intentie_consecinta.jpg": "/static/media/intentie_consecinta.279351b9aa1e03f02ae2.jpg",
     "static/media/reactie.jpg": "/static/media/reactie.286706f8622ccecea8d6.jpg",
     "static/media/comportamente.jpg": "/static/media/comportamente.5dcf11c826e39fdb1904.jpg",
+    "static/media/explicatii.jpg": "/static/media/explicatii.eb37cf8ded9aeb8646aa.jpg",
     "static/media/actiune.jpg": "/static/media/actiune.beea8df6543bd9a6d02b.jpg",
     "static/media/realitate_interpersonala.jpg": "/static/media/realitate_interpersonala.faccc57e7369c5c3a754.jpg",
     "static/media/alegere_despartire.jpg": "/static/media/alegere_despartire.39e441a766251a3425f2.jpg",
@@ -64,6 +67,7 @@
     "static/media/omul_risc.jpg": "/static/media/omul_risc.6031de46a5c95c213d96.jpg",
     "static/media/starea.jpg": "/static/media/starea.eab0f9167e178095da9b.jpg",
     "static/media/alegere.jpg": "/static/media/alegere.426f1c0b0fc444b5c1b5.jpg",
+    "static/media/minciuna.jpg": "/static/media/minciuna.e7b787861bc6f4d3e484.jpg",
     "static/media/despartire.jpg": "/static/media/despartire.609861ad1c5215a2fb91.jpg",
     "static/media/child.jpg": "/static/media/child.c90c6c973d5195f6a799.jpg",
     "static/media/isac_creion.jpg": "/static/media/isac_creion.7c006971b0a96fe17a63.jpg",
@@ -143,7 +147,7 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.8812eb68.js.map": "/static/js/main.8812eb68.js.map",
+    "main.06429d4f.js.map": "/static/js/main.06429d4f.js.map",
     "947.7bb012a1.chunk.js.map": "/static/js/947.7bb012a1.chunk.js.map",
     "337.110a3930.chunk.js.map": "/static/js/337.110a3930.chunk.js.map",
     "241.8932c9cd.chunk.js.map": "/static/js/241.8932c9cd.chunk.js.map",
@@ -165,8 +169,10 @@
     "757.d3039812.chunk.js.map": "/static/js/757.d3039812.chunk.js.map",
     "737.c903b7be.chunk.js.map": "/static/js/737.c903b7be.chunk.js.map",
     "232.3e3bc51c.chunk.js.map": "/static/js/232.3e3bc51c.chunk.js.map",
+    "428.268cb7c7.chunk.js.map": "/static/js/428.268cb7c7.chunk.js.map",
     "278.0d3c543f.chunk.js.map": "/static/js/278.0d3c543f.chunk.js.map",
     "126.8eb6bf6e.chunk.js.map": "/static/js/126.8eb6bf6e.chunk.js.map",
+    "468.3ba2cc82.chunk.js.map": "/static/js/468.3ba2cc82.chunk.js.map",
     "424.82c8c63a.chunk.js.map": "/static/js/424.82c8c63a.chunk.js.map",
     "152.90cc3975.chunk.js.map": "/static/js/152.90cc3975.chunk.js.map",
     "486.676d615c.chunk.js.map": "/static/js/486.676d615c.chunk.js.map",
@@ -191,6 +197,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.8812eb68.js"
+    "static/js/main.06429d4f.js"
   ]
 }
