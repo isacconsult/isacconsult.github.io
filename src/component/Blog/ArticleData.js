@@ -383,6 +383,16 @@ const articleData = [
     date: '9 Mar',
     index: 48
   },
+  {
+    title: 'Diferența dintre ceea ce văd oamenii și ceea ce vede o persoană orientată spre consecințe',
+    slug: 'patruzecinoua',
+    desc: 'Atunci când mai multe persoane privesc aceeași situație ...',
+    image: 'persoana_orientata_consecinte.jpg',
+    date: '9 Mar',
+    index: 49
+  },
+
+  
 ]
 
 export default articleData;

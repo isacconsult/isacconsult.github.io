@@ -51,8 +51,7 @@ export const navigationItems = [
   { position: 46, name: 'Minciuna la persoanele cu trăsaturi psihopatice și narcisice', url: `${siteUrl}/articole/patruzecisase` },
   { position: 47, name: 'Negarea sociala - mecanismul prin care comunitățile refuză să accepte nedreptatea produsă în interiorul lor', url: `${siteUrl}/articole/patruzecisapte` },
   { position: 48, name: 'Anxietatea anticipativă - teama produsă de ceea ce credem că se va întâmpla', url: `${siteUrl}/articole/patruzeciopt` },
-
-
+  { position: 49, name: 'Diferența dintre ceea ce văd oamenii și ceea ce vede o persoană orientată spre consecințe', url: `${siteUrl}/articole/patruzecinoua` },
 ];
 
 export const siteNavScript = {
