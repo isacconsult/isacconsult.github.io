@@ -38,8 +38,8 @@ return <div className="articol">
         O persoană stabila nu reacționeaza imediat la fiecare emoție. 
         Între stimul și răspuns există o pauză. În acea pauză apare evaluarea.</p>
       <p style={{ marginBottom: "15px"}} />
-      <p>Stabilitatea psihologicã presupune separarea emoției de realitate. 
-        Faptul că simți frica nu înseamnă automat că există pericol real. 
+      <p>Stabilitatea psihologică presupune separarea emoției de realitate. 
+        Faptul că simți frică nu înseamnă automat că există pericol real. 
         Faptul că simți furie nu înseamnă că trebuie să ataci. 
         Omul stabil recunoaște emoția, dar nu o confundă cu adevarul absolut.</p>
       <p style={{ marginBottom: "15px"}} />

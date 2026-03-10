@@ -391,6 +391,16 @@ const articleData = [
     date: '9 Mar',
     index: 49
   },
+  {
+    title: 'Minciuna la personalitățile narcisice și antisociale',
+    slug: 'cinzeci',
+    desc: 'Minciuna este un comportament întâlnit la toți oamenii ...',
+    image: 'minciune_antisocial.jpg',
+    date: '10 Mar',
+    index: 50
+  },
+
+  
 
   
 ]
