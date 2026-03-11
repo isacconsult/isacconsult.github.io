@@ -399,8 +399,22 @@ const articleData = [
     date: '10 Mar',
     index: 50
   },
-
-  
+  {
+    title: 'Diferențele de comportament dintre personalitatea narcisică și personalitatea antisocială - exemple din viața de zi cu zi',
+    slug: 'cinzeciunu',
+    desc: 'În viața socială întâlnim persoane care par la prima vedere asemănătoare ...',
+    image: 'narci_vs_antisoc.jpg',
+    date: '11 Mar',
+    index: 51
+  },
+  {
+    title: 'Tipologii umane',
+    slug: 'cinzecidoi',
+    desc: 'Comportamentul uman nu apare intâmplător ...',
+    image: 'tipare_umane.jpg',
+    date: '11 Mar',
+    index: 52
+  },
 
   
 ]

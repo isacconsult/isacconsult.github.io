@@ -53,6 +53,8 @@ export const navigationItems = [
   { position: 48, name: 'Anxietatea anticipativă - teama produsă de ceea ce credem că se va întâmpla', url: `${siteUrl}/articole/patruzeciopt` },
   { position: 49, name: 'Diferența dintre ceea ce văd oamenii și ceea ce vede o persoană orientată spre consecințe', url: `${siteUrl}/articole/patruzecinoua` },
   { position: 50, name: 'Minciuna la personalitățile narcisice și antisociale', url: `${siteUrl}/articole/cinzeci` },
+  { position: 51, name: 'Diferențele de comportament dintre personalitatea narcisică și personalitatea antisocială - exemple din viața de zi cu zi', url: `${siteUrl}/articole/cinzeciunu` },
+  { position: 52, name: 'Tipologii umane', url: `${siteUrl}/articole/cinzecidoi` },
 ];
 
 export const siteNavScript = {
