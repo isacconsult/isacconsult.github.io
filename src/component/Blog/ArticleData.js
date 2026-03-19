@@ -431,8 +431,14 @@ const articleData = [
     date: '19 Mar',
     index: 54
   },
-
-  
+  {
+    title: 'Stresul - explicație chimică',
+    slug: 'cinzecicinci',
+    desc: 'Activarea biologică reprezintă răspunsul automat al organismului la un stimul perceput ca relevant ...',
+    image: 'stresul_chimic.jpg',
+    date: '19 Mar',
+    index: 55
+  },
 ]
 
 export default articleData;
