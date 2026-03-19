@@ -415,6 +415,22 @@ const articleData = [
     date: '11 Mar',
     index: 52
   },
+  {
+    title: 'Narcisismul',
+    slug: 'cinzecitrei',
+    desc: 'Narcisismul este un tip de structură de personalitate în care imaginea ...',
+    image: 'narcisism.jpg',
+    date: '16 Mar',
+    index: 53
+  },
+  {
+    title: 'Ce este Stresul',
+    slug: 'cinzecipatru',
+    desc: 'Corpul uman este construit pentru a reacționa la stimuli ...',
+    image: 'stres_actiune.jpg',
+    date: '19 Mar',
+    index: 54
+  },
 
   
 ]

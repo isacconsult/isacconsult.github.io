@@ -55,6 +55,8 @@ export const navigationItems = [
   { position: 50, name: 'Minciuna la personalitățile narcisice și antisociale', url: `${siteUrl}/articole/cinzeci` },
   { position: 51, name: 'Diferențele de comportament dintre personalitatea narcisică și personalitatea antisocială - exemple din viața de zi cu zi', url: `${siteUrl}/articole/cinzeciunu` },
   { position: 52, name: 'Tipologii umane', url: `${siteUrl}/articole/cinzecidoi` },
+  { position: 53, name: 'Narcisismul', url: `${siteUrl}/articole/cinzecitrei` },
+  { position: 54, name: 'Ce este Stresul', url: `${siteUrl}/articole/cinzecipatru` },
 ];
 
 export const siteNavScript = {

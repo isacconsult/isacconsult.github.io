@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.077c5ad2.js",
+    "main.js": "/static/js/main.142240bf.js",
     "static/js/4947.b24245e8.chunk.js": "/static/js/4947.b24245e8.chunk.js",
     "static/js/4337.aba80ad1.chunk.js": "/static/js/4337.aba80ad1.chunk.js",
     "static/js/5506.cd313693.chunk.js": "/static/js/5506.cd313693.chunk.js",
+    "static/js/7088.afbd819a.chunk.js": "/static/js/7088.afbd819a.chunk.js",
+    "static/js/8538.f4a968ec.chunk.js": "/static/js/8538.f4a968ec.chunk.js",
     "static/js/8241.e2146eb6.chunk.js": "/static/js/8241.e2146eb6.chunk.js",
     "static/js/1703.b4ed41b9.chunk.js": "/static/js/1703.b4ed41b9.chunk.js",
     "static/js/2859.85d90359.chunk.js": "/static/js/2859.85d90359.chunk.js",
@@ -90,6 +92,7 @@
     "static/media/stabilitate_emotionala.jpg": "/static/media/stabilitate_emotionala.a16e56c73c3fac8dafb6.jpg",
     "static/media/manifest.jpg": "/static/media/manifest.366945419a775f5f9619.jpg",
     "static/media/oameni.jpg": "/static/media/oameni.4a78753e2360673b02d7.jpg",
+    "static/media/narci_vs_antisoc.jpg": "/static/media/narci_vs_antisoc.9e63833b965796e279b4.jpg",
     "static/media/oameni_1.jpg": "/static/media/oameni_1.4dff59f0593a4115b39a.jpg",
     "static/media/relatii.jpg": "/static/media/relatii.639fa572891f2e9516b6.jpg",
     "static/media/persoana_orientata_consecinte.jpg": "/static/media/persoana_orientata_consecinte.fd6badebb4de13852930.jpg",
@@ -108,6 +111,7 @@
     "static/media/creier_persoana.jpg": "/static/media/creier_persoana.cd45fe3f2fffff31e4a6.jpg",
     "static/media/functia.jpg": "/static/media/functia.f661cbba5f0b4e92dc90.jpg",
     "static/media/9.jpg": "/static/media/9.6ac331c0db7a1f5d7fea.jpg",
+    "static/media/tipare_umane.jpg": "/static/media/tipare_umane.4eb3eaa95b53efb285d5.jpg",
     "static/media/omul_nou.jpg": "/static/media/omul_nou.ccbbd45b3793e7b7bc6a.jpg",
     "static/media/viitor_actiuni.jpg": "/static/media/viitor_actiuni.13e32123680410a8ec8d.jpg",
     "static/media/et-line.svg": "/static/media/et-line.613c7311d2d5a1dd7e49.svg",
@@ -155,10 +159,12 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.077c5ad2.js.map": "/static/js/main.077c5ad2.js.map",
+    "main.142240bf.js.map": "/static/js/main.142240bf.js.map",
     "4947.b24245e8.chunk.js.map": "/static/js/4947.b24245e8.chunk.js.map",
     "4337.aba80ad1.chunk.js.map": "/static/js/4337.aba80ad1.chunk.js.map",
     "5506.cd313693.chunk.js.map": "/static/js/5506.cd313693.chunk.js.map",
+    "7088.afbd819a.chunk.js.map": "/static/js/7088.afbd819a.chunk.js.map",
+    "8538.f4a968ec.chunk.js.map": "/static/js/8538.f4a968ec.chunk.js.map",
     "8241.e2146eb6.chunk.js.map": "/static/js/8241.e2146eb6.chunk.js.map",
     "1703.b4ed41b9.chunk.js.map": "/static/js/1703.b4ed41b9.chunk.js.map",
     "2859.85d90359.chunk.js.map": "/static/js/2859.85d90359.chunk.js.map",
@@ -209,6 +215,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.077c5ad2.js"
+    "static/js/main.142240bf.js"
   ]
 }
