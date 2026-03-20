@@ -57,7 +57,8 @@ export const navigationItems = [
   { position: 52, name: 'Tipologii umane', url: `${siteUrl}/articole/cinzecidoi` },
   { position: 53, name: 'Narcisismul', url: `${siteUrl}/articole/cinzecitrei` },
   { position: 54, name: 'Ce este Stresul', url: `${siteUrl}/articole/cinzecipatru` },
-  { position: 55, name: '', url: `${siteUrl}/articole/cinzecicinci` },
+  { position: 55, name: 'Stresul - explicație chimică', url: `${siteUrl}/articole/cinzecicinci` },
+  { position: 56, name: 'Adaptarea la mediu', url: `${siteUrl}/articole/cinzecisase` },
 ];
 
 export const siteNavScript = {

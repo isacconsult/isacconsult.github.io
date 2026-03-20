@@ -439,6 +439,14 @@ const articleData = [
     date: '19 Mar',
     index: 55
   },
+  {
+    title: 'Adaptarea la mediu',
+    slug: 'cinzecisase',
+    desc: 'Adaptarea unui om la un mediu nu este determinată doar de mediul ...',
+    image: 'adaptare_mediu.jpg',
+    date: '20 Mar',
+    index: 56
+  },
 ]
 
 export default articleData;
