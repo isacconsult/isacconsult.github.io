@@ -17,9 +17,11 @@ return <div className="articol">
       <p className="bold_text">eveniment → gând → emoție → comportament.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Ordinea este: </p>
-      <p className="bold_text">stare biologică → gând → interpretare → emoție → comportament → consecința.</p>
+      <p className="bold_text">stare biologică → gând → interpretare → emoție → comportament → consecință.</p>
       <p style={{ marginBottom: "15px"}} />
-      <p>Creierul nu produce gânduri in mod liber. El încearcă să explice ceea ce corpul simte. 
+      <p>Creierul nu produce gânduri in mod liber. </p>
+      <p className="bold_text">El încearcă să explice ceea ce corpul simte.</p> 
+      <p>
         Dacă organismul este în alertă, creierul produce gânduri de pericol. 
         Daca organismul este liniștit, produce interpretări neutre. </p>
       <p>Astfel, aceeași situație poate fi percepută diferit de două persoane sau chiar de aceeași persoană în momente diferite.</p>

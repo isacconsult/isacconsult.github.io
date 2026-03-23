@@ -7,11 +7,11 @@ return <div className="articol">
     <div style={{ textAlign: 'left'}}>
       <p>la început cineva te caută, te dorește, pare sigur, implicat și convins că ești „persoana potrivită", 
         iar după o perioadă începe să se răcească, să se agite, să se certe sau să plece. 
-        Cel părăsit caută explicații morale: „nu m-a iubit", ,m-a mințit", „s-a schimbat". 
+        Cel părăsit caută explicații morale: „nu m-a iubit", „m-a mințit", „s-a schimbat". 
         În realitate, de cele mai multe ori nu s-a schimbat persoana, ci starea biologică în care funcționa relația.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Alegerea partenerului nu este făcută inițial de logică, ci de organism. 
-        Creierul uman caută în primul rând reglare interna, nu compatibilitate de caracter.
+        Creierul uman caută în primul rând reglare internă, nu compatibilitate de caracter.
         Când întâlnești pe cineva, corpul nu evaluează dacă acel om este bun sau rău, 
         ci dacă în prezența lui scade tensiunea internă sau crește. 
         Dacă scade, apare atracția. Dacă crește, apare evitarea.
@@ -36,7 +36,7 @@ return <div className="articol">
         Iar pentru unele persoane liniștea nu înseamnă siguranță, ci pierderea stimulării interne.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Persoana nu înțelege ce se întâmplă și mintea caută explicații: „nu mai simt", „nu mai e ca la început", „nu mai e ce trebuie".
-        În realitate nu a dispărut relația, a dispărut activarea biologică inițialã.</p>
+        În realitate nu a dispărut relația, a dispărut activarea biologică inițială.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Urmează a doua etapă: organismul începe să se nelinișteasca. 
         Apare iritabilitatea, critica, cearta sau distanțarea. 
@@ -63,7 +63,7 @@ return <div className="articol">
       <p className="bold_text">relațiile nu sunt menținute doar de sentimente, ci de compatibilitatea stărilor interne.</p>
       <p className="bold_text">Lângă persoana potrivită organismul nu trebuie nici să lupte, nici să fugă, nici să se apere. </p>
       <p className="bold_text">Când corpul rămâne în siguranță, relația continuă. </p>
-      <p className="bold_text">Când corpul intră în tensiune sau în gol, relația se destabilizeaza, chiar daca logic ar trebui sã funcționeze.</p>  
+      <p className="bold_text">Când corpul intră în tensiune sau în gol, relația se destabilizeaza, chiar dacă logic ar trebui să funcționeze.</p>  
     </div>
     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>

@@ -27,11 +27,11 @@ return <div className="articol">
     <p className="bold_text nineteen">De ce alegem exact persoanele care ne rănesc</p>
     <div style={{ textAlign: 'left'}}>
       <p style={{ marginBottom: "15px"}} />
-      <p>O relație nu este stabilă atunci când ne simțim bine emoțional, ci atunci când organismul știe sã funcționeze în ea.</p>
+      <p>O relație nu este stabilă atunci când ne simțim bine emoțional, ci atunci când organismul știe să funcționeze în ea.</p>
       <p style={{ marginBottom: "15px"}} />
-      <p>Un om crescut in criticã va percepe liniștea ca indiferență.</p>
+      <p>Un om crescut in critică va percepe liniștea ca indiferență.</p>
       <p>Un om crescut în imprevizibil va percepe stabilitatea ca plictiseală.</p>
-      <p>Un om obișnuit să lupte pentru atenție va percepe disponibilitatea ca lipsã de interes.</p>
+      <p>Un om obișnuit să lupte pentru atenție va percepe disponibilitatea ca lipsă de interes.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Asadar, oamenii nu caută fericirea.</p>
       <p>Caută <span className="bold_text">familiarul biologic</span>.</p>
@@ -86,7 +86,7 @@ return <div className="articol">
       <p>Lucrăm pe:</p>
       <p className="bold_text">funcție → comportament → consecință → context</p>
       <p style={{ marginBottom: "15px"}} />
-      <p>Se păstreazã nevoia psihologică (funcția), dar se modifică comportamentul prin care persoana incearcă să o satisfacă. 
+      <p>Se păstrează nevoia psihologică (funcția), dar se modifică comportamentul prin care persoana incearcă să o satisfacă. 
         Astfel, sistemul nervos obține aceeași reglare fără conflict, control sau distrugere relațională.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Când starea internă se stabilizează, decizia apare singură</p>

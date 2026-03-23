@@ -12,14 +12,14 @@ return <div className="articol">
       <p style={{ marginBottom: "15px"}} />
       <p>Creierul uman nu funcționeaza dupa explicații, ci după experiență. 
         El nu reține cine spune persoana că este, ci ce face repetat. 
-        Identitatea psihologică nu este formată din declarații („sunt calm", „sunt puternic", „nu mai vreau sa reactionez"), 
+        Identitatea psihologică nu este formată din declarații („sunt calm", „sunt puternic", „nu mai vreau sa reacționez"), 
         ci din reacțiile reale în situații de tensiune.
         Adevăratul profil al unei persoane nu apare când este liniștită, ci când apare frica, respingerea, gelozia sau conflictul. 
         Atunci organismul folosește comportamentul pe care îl cunoaște pentru a se regla.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Un comportament nu apare întâmplător. El are o funcție biologică: reduce o stare internă neplăcută. 
         Controlul reduce anxietatea, cearta descarcă tensiunea, verificarea reduce frica de abandon, 
-        retragerea reduce supraîncarcarea emoționala. 
+        retragerea reduce supraîncarcarea emoțională. 
         De aceea omul repetă comportamente chiar daca ele îi distrug relațiile sau viața socială. 
         Nu pentru că le consideră bune, ci pentru că organismul se liniștește temporar prin ele.</p>
       <p style={{ marginBottom: "15px"}} />

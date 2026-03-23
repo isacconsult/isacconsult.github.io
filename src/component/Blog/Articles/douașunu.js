@@ -29,14 +29,14 @@ return <div className="articol">
       <p style={{ marginBottom: "15px"}} />
       <p>Organismul produce zilnic energie și hormoni de stres, 
         iar dacă aceștia nu sunt descărcați prin mișcare sau activitate fizica, 
-        cauta o ieșire socială, astfel apar certuri fără motiv real, gelozie, suspiciuni, reproșuri și despărțiri urmate de împăcări.</p>
+        caută o ieșire socială, astfel apar certuri fără motiv real, gelozie, suspiciuni, reproșuri și despărțiri urmate de împăcări.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>După conflict apare o liniștire temporară nu pentru că problema s-a rezolvat, 
         ci pentru că organismul s-a descărcat biologic, iar creierul învață această asociere 
-        și va căuta din nou conflictul pentru a obține liniștea, de aceea în multe situații oamenii nu cauta conflictul conștient,
+        și va căuta din nou conflictul pentru a obține liniștea, de aceea în multe situații oamenii nu caută conflictul conștient,
         ci caută reglarea tensiunii interne. </p>
       <p style={{ marginBottom: "15px"}} />
-      <p>O reacție frecventă este analiza excesivă, discuții lungi și interpretări, insă gândurile sunt efectul și nu cauza.</p>
+      <p>O reacție frecventă este analiza excesivă, discuții lungi și interpretări, însă gândurile sunt efectul și nu cauza.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Când starea biologică se schimbă, se schimbă și percepția, de aceea după odihnă problemele par mai mici, 
         după mișcare dispare supărarea iar in vacanță conflictele par neimportante, 
@@ -71,7 +71,7 @@ return <div className="articol">
       <p className="bold_text">comportamentul produce consecințele,</p>
       <p>de aceea echilibrul psihic nu începe prin rezolvarea tuturor problemelor, 
         ci prin reglarea organismului, pentru că atunci când corpul este liniștit 
-        <span className="bold_text"> mintea nu mai transformă realitatea într-un pericol</span> și omul poate actiona clar și stabil.</p>    
+        <span className="bold_text"> mintea nu mai transformă realitatea într-un pericol</span> și omul poate acționa clar și stabil.</p>    
     </div>
     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>
