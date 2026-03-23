@@ -59,6 +59,7 @@ export const navigationItems = [
   { position: 54, name: 'Ce este Stresul', url: `${siteUrl}/articole/cinzecipatru` },
   { position: 55, name: 'Stresul - explicație chimică', url: `${siteUrl}/articole/cinzecicinci` },
   { position: 56, name: 'Adaptarea la mediu', url: `${siteUrl}/articole/cinzecisase` },
+  { position: 57, name: 'Percepția realității', url: `${siteUrl}/articole/cinzecisapte` },
 ];
 
 export const siteNavScript = {

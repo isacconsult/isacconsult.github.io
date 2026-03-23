@@ -447,6 +447,14 @@ const articleData = [
     date: '20 Mar',
     index: 56
   },
+  {
+    title: 'Percepția realității',
+    slug: 'cinzecisapte',
+    desc: 'Acest fenomen nu apare doar în relațiile dintre oameni ...',
+    image: 'perceptia_realitatii.jpg',
+    date: '23 Mar',
+    index: 57
+  },
 ]
 
 export default articleData;
