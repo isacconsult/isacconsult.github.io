@@ -455,6 +455,14 @@ const articleData = [
     date: '23 Mar',
     index: 57
   },
+  {
+    title: 'Când corpul nu descarcă energie, mintea descarcă pe oameni',
+    slug: 'cinzeciopt',
+    desc: 'În viața de zi cu zi, multe dintre conflictele pe care le avem nu apar pentru că exista ...',
+    image: 'miscare.jpg',
+    date: '24 Mar',
+    index: 58
+  },
 ]
 
 export default articleData;

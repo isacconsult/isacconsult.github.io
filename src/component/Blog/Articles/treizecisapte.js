@@ -37,7 +37,7 @@ return <div className="articol">
         Nu inteligența se schimbă, ci starea internă în care este primită informația.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Acesta este motivul pentru care oamenii spun adesea: „te-am înțeles prea târziu".
-        Nu pentru că nu puteau pricepe, ci pentru că în acel moment trebuiau sã se apere.
+        Nu pentru că nu puteau pricepe, ci pentru că în acel moment trebuiau să se apere.
         Înțelegerea apare doar atunci când sistemul nervos nu mai percepe pericol.
         Omul nu poate învăța cât timp se simte amenințat emoțional.</p>
       <p style={{ marginBottom: "15px"}} />

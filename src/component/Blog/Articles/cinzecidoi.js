@@ -37,7 +37,7 @@ return <div className="articol">
       <p style={{ marginBottom: "15px"}} />
       <p>Un exemplu simplu poate clarifica acest mecanism. 
         Dacă o persoana are tiparul cognitiv „oamenii nu sunt de încredere", emoția dominantă poate deveni suspiciunea sau frica. 
-        Comportamentul rezultat poate fi evitarea relațiilor sau verificarea constantã a celorlalți. 
+        Comportamentul rezultat poate fi evitarea relațiilor sau verificarea constantă a celorlalți. 
         În timp, aceste reacții repetate formează o tipologie caracterizată prin neîncredere și retragere socială.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Un alt exemplu poate fi tiparul cognitiv „trebuie să fiu superior pentru a fi valoros". 

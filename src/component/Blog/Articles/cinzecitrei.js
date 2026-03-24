@@ -6,7 +6,7 @@ return <div className="articol">
     <p style={{ marginBottom: "25px"}} />
     <div style={{ textAlign: 'left'}}>
       <p>Individul cu trăsături narcisice simte o nevoie constanta de validare, admirație și recunoaștere, 
-        iar modul în care este perceput de ceilalți are o influență majorã asupra stării sale interne. 
+        iar modul în care este perceput de ceilalți are o influență majoră asupra stării sale interne. 
         Deși la exterior poate părea sigur pe sine, în multe situații aceasta imagine este fragilă și depinde de menținerea unei 
         percepții pozitive despre propria persoană. 
         Atunci când apare o situație care amenința această imagine - de exemplu o greșeală, o critică sau descoperirea unei minciuni - 

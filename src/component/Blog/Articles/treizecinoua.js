@@ -50,7 +50,7 @@ return <div className="articol">
         Pentru anumite persoane, cearta este o metodă de reglare a sistemului nervos.
         Relațille respective nu sunt construite pe rezolvarea problemelor, ci pe echilibrarea tensiunii interne. 
         De aceea, schimbarea reală nu apare prin explicații sau argumente, 
-        ci prin găsirea altor metode de autoreglare care sã înlocuiască nevoia de conflict.</p>
+        ci prin găsirea altor metode de autoreglare care să înlocuiască nevoia de conflict.</p>
     </div>
     <p style={{ margin: "25px auto"}}>✻ ✻ ✻</p>
   </div>

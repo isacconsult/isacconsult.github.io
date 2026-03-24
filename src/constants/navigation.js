@@ -60,6 +60,7 @@ export const navigationItems = [
   { position: 55, name: 'Stresul - explicație chimică', url: `${siteUrl}/articole/cinzecicinci` },
   { position: 56, name: 'Adaptarea la mediu', url: `${siteUrl}/articole/cinzecisase` },
   { position: 57, name: 'Percepția realității', url: `${siteUrl}/articole/cinzecisapte` },
+  { position: 58, name: 'Când corpul nu descarcă energie, mintea descarcă pe oameni', url: `${siteUrl}/articole/cinzeciopt` },
 ];
 
 export const siteNavScript = {

@@ -8,7 +8,7 @@ return <div className="articol">
       <p>o persoană spune că nu a făcut nimic greșit și totuși este oprită, verificată, suspectată sau intră repetat in conflicte. 
         Explicația obișnuită este „ghinionul", „oamenii au ceva cu mine" sau „sunt ales mereu eu". 
         În realitate, de cele mai multe ori nu comportamentul conștient produce reacția celorlalți, 
-        ci starea biologică vizibilã a organismului.</p>
+        ci starea biologică vizibilă a organismului.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Creierul uman nu analizează intâi logic realitatea socială. 
         Prima lui funcție este evaluarea siguranței. Orice om, fără să-și dea seama, răspunde automat la întrebarea: 
@@ -45,7 +45,7 @@ return <div className="articol">
         O persoană reglată transmite siguranța, iar mediul raspunde relaxat. 
         O persoana activata transmite alertă, iar mediul raspunde precaut. Nu caracterul este citit primul, ci starea.</p>
       <p style={{ marginBottom: "15px"}} /> 
-      <p>Concluzia este că oamenii nu interacționeazã inițial cu cine credem că suntem, ci cu mesajul biologic pe care îl emitem. 
+      <p>Concluzia este că oamenii nu interacționează inițial cu cine credem că suntem, ci cu mesajul biologic pe care îl emitem. 
         Intențiile devin relevante abia dupã ce sistemele nervoase ale celor implicați percep siguranță. 
         Astfel, schimbarea relației cu lumea începe adesea nu prin explicații, ci prin reglarea stării interne, 
         deoarece mediul reacționeazã mai întâi la semnal, nu la explicație.</p>

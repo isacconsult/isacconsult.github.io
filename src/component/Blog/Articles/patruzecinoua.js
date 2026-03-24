@@ -29,7 +29,7 @@ return <div className="articol">
       <p>De exemplu, într-o relație, unii oameni pot observa doar gesturile sau cuvintele dintr-o anumită zi. 
         O persoană orientată spre consecințe poate observa însă frecvența acestor comportamente, 
         modul în care ele se repetă și efectele pe care le au asupra relației în timp. 
-        În loc sã vadă doar un incident, ea poate vedea începutul sau continuarea unui tipar.</p>
+        În loc să vadă doar un incident, ea poate vedea începutul sau continuarea unui tipar.</p>
       <p style={{ marginBottom: "15px"}} />
       <p>Diferența nu înseamnă neapărat că una dintre perspective este corectă iar cealaltă greșită. 
         Fiecare mod de a vedea lucrurile este influențat de experiență, de modul în care creierul a învățat 

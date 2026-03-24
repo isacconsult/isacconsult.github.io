@@ -6,10 +6,10 @@ return <div className="articol">
     <p style={{ marginBottom: "25px"}} />
     <div style={{ textAlign: 'left'}}>
       <p>Ei așteaptă ca lucrurile să se schimbe în timp: să apară oportunități, să se rezolve problemele sau 
-        să se îmbunătățească viata fără o intervenție directă. 
+        să se îmbunătățească viața fără o intervenție directă. 
         În realitate, viitorul nu este ceva care vine singur, ci ceva care se construiește permanent prin comportamentele și deciziile din prezent.</p>
       <p style={{ marginBottom: "15px"}} />
-      <p>Creierul uman funcționează într-o relație directă cu consecintele acțiunilor noastre.
+      <p>Creierul uman funcționează într-o relație directă cu consecințele acțiunilor noastre.
         Fiecare comportament produce un rezultat, iar aceste rezultate repetate creeaza direcția în care merge viața unei persoane. 
         Din acest motiv, viitorul nu apare întâmplător, ci este rezultatul acumulării de consecințe generate de acțiunile zilnice.</p>
       <p style={{ marginBottom: "15px"}} />
