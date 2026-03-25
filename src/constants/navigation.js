@@ -61,6 +61,7 @@ export const navigationItems = [
   { position: 56, name: 'Adaptarea la mediu', url: `${siteUrl}/articole/cinzecisase` },
   { position: 57, name: 'Percepția realității', url: `${siteUrl}/articole/cinzecisapte` },
   { position: 58, name: 'Când corpul nu descarcă energie, mintea descarcă pe oameni', url: `${siteUrl}/articole/cinzeciopt` },
+  { position: 59, name: 'De ce este importantă poziția socială și cum ajunge omul să nu mai depindă de validarea celorlalți', url: `${siteUrl}/articole/cinzecinoua` },
 ];
 
 export const siteNavScript = {

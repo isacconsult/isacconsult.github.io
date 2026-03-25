@@ -463,6 +463,14 @@ const articleData = [
     date: '24 Mar',
     index: 58
   },
+  {
+    title: 'De ce este importantă poziția socială și cum ajunge omul să nu mai depindă de validarea celorlalți',
+    slug: 'cinzecinoua',
+    desc: 'Poziția socială este importantă pentru oameni nu din motive superficiale sau doar culturale ...',
+    image: 'validare_sociala.jpg',
+    date: '25 Mar',
+    index: 59
+  },
 ]
 
 export default articleData;
