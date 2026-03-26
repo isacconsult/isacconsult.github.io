@@ -471,6 +471,14 @@ const articleData = [
     date: '25 Mar',
     index: 59
   },
+  {
+    title: 'Acceptare vs înțelegere',
+    slug: 'saizeci',
+    desc: 'În viața de zi cu zi, oamenii confundă des ințelegerea cu acceptarea ...',
+    image: 'intelegere_acceptare.jpg',
+    date: '26 Mar',
+    index: 60
+  },
 ]
 
 export default articleData;

@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.55f9ad8c.js",
+    "main.js": "/static/js/main.205ef63e.js",
     "static/js/4947.b24245e8.chunk.js": "/static/js/4947.b24245e8.chunk.js",
     "static/js/4337.aba80ad1.chunk.js": "/static/js/4337.aba80ad1.chunk.js",
     "static/js/5506.cd313693.chunk.js": "/static/js/5506.cd313693.chunk.js",
     "static/js/3950.2ee1ebce.chunk.js": "/static/js/3950.2ee1ebce.chunk.js",
     "static/js/7088.169af2eb.chunk.js": "/static/js/7088.169af2eb.chunk.js",
+    "static/js/9783.99101edb.chunk.js": "/static/js/9783.99101edb.chunk.js",
     "static/js/4089.92721fe1.chunk.js": "/static/js/4089.92721fe1.chunk.js",
     "static/js/6224.d2ecefb9.chunk.js": "/static/js/6224.d2ecefb9.chunk.js",
     "static/js/9187.ce74529c.chunk.js": "/static/js/9187.ce74529c.chunk.js",
@@ -120,6 +121,7 @@
     "static/media/stres_actiune.jpg": "/static/media/stres_actiune.22fe589387d22e695b87.jpg",
     "static/media/paradox.jpg": "/static/media/paradox.72500ab490e262ca8e1a.jpg",
     "static/media/intelegere.jpg": "/static/media/intelegere.e9261fa4c618c50b2a62.jpg",
+    "static/media/validare_sociala.jpg": "/static/media/validare_sociala.9ec5d41408319e8e6f88.jpg",
     "static/media/creier_persoana.jpg": "/static/media/creier_persoana.cd45fe3f2fffff31e4a6.jpg",
     "static/media/functia.jpg": "/static/media/functia.f661cbba5f0b4e92dc90.jpg",
     "static/media/9.jpg": "/static/media/9.6ac331c0db7a1f5d7fea.jpg",
@@ -171,12 +173,13 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.55f9ad8c.js.map": "/static/js/main.55f9ad8c.js.map",
+    "main.205ef63e.js.map": "/static/js/main.205ef63e.js.map",
     "4947.b24245e8.chunk.js.map": "/static/js/4947.b24245e8.chunk.js.map",
     "4337.aba80ad1.chunk.js.map": "/static/js/4337.aba80ad1.chunk.js.map",
     "5506.cd313693.chunk.js.map": "/static/js/5506.cd313693.chunk.js.map",
     "3950.2ee1ebce.chunk.js.map": "/static/js/3950.2ee1ebce.chunk.js.map",
     "7088.169af2eb.chunk.js.map": "/static/js/7088.169af2eb.chunk.js.map",
+    "9783.99101edb.chunk.js.map": "/static/js/9783.99101edb.chunk.js.map",
     "4089.92721fe1.chunk.js.map": "/static/js/4089.92721fe1.chunk.js.map",
     "6224.d2ecefb9.chunk.js.map": "/static/js/6224.d2ecefb9.chunk.js.map",
     "9187.ce74529c.chunk.js.map": "/static/js/9187.ce74529c.chunk.js.map",
@@ -233,6 +236,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.55f9ad8c.js"
+    "static/js/main.205ef63e.js"
   ]
 }

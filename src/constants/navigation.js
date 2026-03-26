@@ -62,6 +62,7 @@ export const navigationItems = [
   { position: 57, name: 'Percepția realității', url: `${siteUrl}/articole/cinzecisapte` },
   { position: 58, name: 'Când corpul nu descarcă energie, mintea descarcă pe oameni', url: `${siteUrl}/articole/cinzeciopt` },
   { position: 59, name: 'De ce este importantă poziția socială și cum ajunge omul să nu mai depindă de validarea celorlalți', url: `${siteUrl}/articole/cinzecinoua` },
+  { position: 60, name: 'Acceptare vs înțelegere', url: `${siteUrl}/articole/saizeci` },
 ];
 
 export const siteNavScript = {
