@@ -63,6 +63,8 @@ export const navigationItems = [
   { position: 58, name: 'Când corpul nu descarcă energie, mintea descarcă pe oameni', url: `${siteUrl}/articole/cinzeciopt` },
   { position: 59, name: 'De ce este importantă poziția socială și cum ajunge omul să nu mai depindă de validarea celorlalți', url: `${siteUrl}/articole/cinzecinoua` },
   { position: 60, name: 'Acceptare vs înțelegere', url: `${siteUrl}/articole/saizeci` },
+  { position: 61, name: 'Victima reală vs victima psihologică vs comportamentul învățat care aduce beneficii', url: `${siteUrl}/articole/saizeciunu` },
+  { position: 62, name: 'Cum folosesc persoanele cu trăsături narcisice și psihopatice comportamentul de victimă', url: `${siteUrl}/articole/saizecidoi` },
 ];
 
 export const siteNavScript = {

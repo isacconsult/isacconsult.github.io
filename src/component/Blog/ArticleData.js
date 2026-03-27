@@ -479,6 +479,22 @@ const articleData = [
     date: '26 Mar',
     index: 60
   },
+  {
+    title: 'Victima reală vs victima psihologică vs comportamentul învățat care aduce beneficii',
+    slug: 'saizeciunu',
+    desc: 'În viața de zi cu zi, oamenii folosesc des termenul de „victimă" ...',
+    image: 'victima.jpg',
+    date: '27 Mar',
+    index: 61
+  },
+  {
+    title: 'Cum folosesc persoanele cu trăsături narcisice și psihopatice comportamentul de victimă',
+    slug: 'saizecidoi',
+    desc: 'În relațiile dintre oameni apare frecvent ideea de „victimă" ...',
+    image: 'comportament_victima.jpg',
+    date: '27 Mar',
+    index: 62
+  },
 ]
 
 export default articleData;

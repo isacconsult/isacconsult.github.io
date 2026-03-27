@@ -1,4 +1,4 @@
-const Cinzecinoua = () => {
+const Saizeci = () => {
   return <div className="articol">
     <p>✻ ✻ ✻</p> 
     <p style={{ marginBottom: "25px"}} />
@@ -61,4 +61,4 @@ const Cinzecinoua = () => {
   </div>
   };
 
-export default Cinzecinoua;  
+export default Saizeci;  
