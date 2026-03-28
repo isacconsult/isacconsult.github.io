@@ -65,6 +65,7 @@ export const navigationItems = [
   { position: 60, name: 'Acceptare vs înțelegere', url: `${siteUrl}/articole/saizeci` },
   { position: 61, name: 'Victima reală vs victima psihologică vs comportamentul învățat care aduce beneficii', url: `${siteUrl}/articole/saizeciunu` },
   { position: 62, name: 'Cum folosesc persoanele cu trăsături narcisice și psihopatice comportamentul de victimă', url: `${siteUrl}/articole/saizecidoi` },
+  { position: 63, name: 'Persoane puternice fără a fi agresoare vs persoane fără putere, dar agresoare', url: `${siteUrl}/articole/saizecitrei` },
 ];
 
 export const siteNavScript = {

@@ -495,6 +495,14 @@ const articleData = [
     date: '27 Mar',
     index: 62
   },
+  {
+    title: 'Persoane puternice fără a fi agresoare vs persoane fără putere, dar agresoare',
+    slug: 'saizecitrei',
+    desc: 'În viața de zi cu zi, mulți oameni confundă puterea cu agresivitatea ...',
+    image: 'putere_agresiune.jpg',
+    date: '28 Mar',
+    index: 63
+  },
 ]
 
 export default articleData;
