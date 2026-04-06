@@ -503,6 +503,22 @@ const articleData = [
     date: '28 Mar',
     index: 63
   },
+  {
+    title: 'Minciuna și moralitatea',
+    slug: 'saizecipatru',
+    desc: 'Minciuna pentru un om obișnuit este o problemă morală ...',
+    image: 'minciuna_moralitate.jpg',
+    date: '6 Apr',
+    index: 64
+  },
+  {
+    title: 'Minciuna, gândirea și comportamentul în tiparele antisociale și diferența față de observatorul lucid',
+    slug: 'saizecicinci',
+    desc: 'Minciuna este un comportament care apare la toți oamenii, dar nu are același sens pentru toata lumea.',
+    image: 'minciuna_lucida.jpg',
+    date: '6 Apr',
+    index: 65
+  },
 ]
 
 export default articleData;
