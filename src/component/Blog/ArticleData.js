@@ -519,6 +519,30 @@ const articleData = [
     date: '6 Apr',
     index: 65
   },
+  {
+    title: 'Cum se formează comportamentele orientate spre viitor',
+    slug: 'saizecisase',
+    desc: 'Nu toți oamenii învață comportamentele în același mod.',
+    image: 'comportamente_viitor.jpg',
+    date: '15 Apr',
+    index: 66
+  },
+  {
+    title: 'De ce nu toți copiii fără plasă de siguranță dezvoltă gândirea anticipativă',
+    slug: 'saizecisapte',
+    desc: 'Se spune adesea că un copil care crește fără siguranță, fără sprijin și fără ...',
+    image: 'copil_gandire_anticipata.jpg',
+    date: '15 Apr',
+    index: 67
+  },
+  {
+    title: 'Oamenii nu aleg doar binele. Aleg ceea ce pot gestiona.',
+    slug: 'saizeciopt',
+    desc: 'O persoană care a crescut într-un mediu conflictual poate ajunge, mai târziu ...',
+    image: 'alegerea.jpg',
+    date: '16 Apr',
+    index: 68
+  },
 ]
 
 export default articleData;

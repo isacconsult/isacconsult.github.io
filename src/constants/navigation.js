@@ -68,6 +68,9 @@ export const navigationItems = [
   { position: 63, name: 'Persoane puternice fără a fi agresoare vs persoane fără putere, dar agresoare', url: `${siteUrl}/articole/saizecitrei` },
   { position: 64, name: 'Minciuna și moralitatea', url: `${siteUrl}/articole/saizecipatru` },
   { position: 65, name: 'Minciuna, gândirea și comportamentul în tiparele antisociale și diferența față de observatorul lucid', url: `${siteUrl}/articole/saizecicinci` },
+  { position: 66, name: 'Cum se formează comportamentele orientate spre viitor', url: `${siteUrl}/articole/saizecisase` },
+  { position: 67, name: 'De ce nu toți copiii fără plasă de siguranță dezvoltă gândirea anticipativă', url: `${siteUrl}/articole/saizecisapte` },
+  { position: 68, name: '', url: `${siteUrl}/articole/saizeciopt` },
 ];
 
 export const siteNavScript = {
