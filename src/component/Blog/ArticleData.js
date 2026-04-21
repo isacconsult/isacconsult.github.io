@@ -543,6 +543,38 @@ const articleData = [
     date: '16 Apr',
     index: 68
   },
+  {
+    title: 'Comportamentul nou și cum poate deveni stabil',
+    slug: 'saizecinoua',
+    desc: 'Schimbarea comportamentului este un proces dorit de multe persoane ...',
+    image: 'alegerea.jpg',
+    date: '21 Apr',
+    index: 69
+  },
+  {
+    title: 'Motivul te minte, funcția nu',
+    slug: 'saptezeci',
+    desc: 'Oamenii încearcă să își explice comportamentele prin motive ...',
+    image: 'alegerea.jpg',
+    date: '21 Apr',
+    index: 70
+  },
+  {
+    title: 'Comportamentele au mai multe funcții',
+    slug: 'saptezeciunu',
+    desc: 'Oamenii tind să creadă că un comportament are un singur motiv ...',
+    image: 'alegerea.jpg',
+    date: '21 Apr',
+    index: 71
+  },
+  {
+    title: 'Comportamentul se repetă din cauza funcției, nu a motivului sau a scopului',
+    slug: 'saptezecidoi',
+    desc: 'Oamenii cred că repetă anumite comportamente din cauza motivelor sau ...',
+    image: 'alegerea.jpg',
+    date: '22 Apr',
+    index: 72
+  },
 ]
 
 export default articleData;

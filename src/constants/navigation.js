@@ -70,7 +70,12 @@ export const navigationItems = [
   { position: 65, name: 'Minciuna, gândirea și comportamentul în tiparele antisociale și diferența față de observatorul lucid', url: `${siteUrl}/articole/saizecicinci` },
   { position: 66, name: 'Cum se formează comportamentele orientate spre viitor', url: `${siteUrl}/articole/saizecisase` },
   { position: 67, name: 'De ce nu toți copiii fără plasă de siguranță dezvoltă gândirea anticipativă', url: `${siteUrl}/articole/saizecisapte` },
-  { position: 68, name: '', url: `${siteUrl}/articole/saizeciopt` },
+  { position: 68, name: 'Oamenii nu aleg doar binele. Aleg ceea ce pot gestiona.', url: `${siteUrl}/articole/saizeciopt` },
+  { position: 69, name: 'Comportamentul nou și cum poate deveni stabil', url: `${siteUrl}/articole/saizecinoua` },
+  { position: 70, name: 'Motivul te minte, funcția nu', url: `${siteUrl}/articole/saptezeci` },
+  { position: 71, name: 'Comportamentele au mai multe funcții', url: `${siteUrl}/articole/saptezeciunu` },
+  { position: 72, name: 'Comportamentul se repetă din cauza funcției, nu a motivului sau a scopului', url: `${siteUrl}/articole/saptezecidoi` },
+  
 ];
 
 export const siteNavScript = {
