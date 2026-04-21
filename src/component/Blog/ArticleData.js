@@ -547,7 +547,7 @@ const articleData = [
     title: 'Comportamentul nou și cum poate deveni stabil',
     slug: 'saizecinoua',
     desc: 'Schimbarea comportamentului este un proces dorit de multe persoane ...',
-    image: 'alegerea.jpg',
+    image: 'comportament_nou.jpg',
     date: '21 Apr',
     index: 69
   },
@@ -555,7 +555,7 @@ const articleData = [
     title: 'Motivul te minte, funcția nu',
     slug: 'saptezeci',
     desc: 'Oamenii încearcă să își explice comportamentele prin motive ...',
-    image: 'alegerea.jpg',
+    image: 'motivul_minte.jpg',
     date: '21 Apr',
     index: 70
   },
@@ -563,7 +563,7 @@ const articleData = [
     title: 'Comportamentele au mai multe funcții',
     slug: 'saptezeciunu',
     desc: 'Oamenii tind să creadă că un comportament are un singur motiv ...',
-    image: 'alegerea.jpg',
+    image: 'functii_comportament.jpg',
     date: '21 Apr',
     index: 71
   },
@@ -571,7 +571,7 @@ const articleData = [
     title: 'Comportamentul se repetă din cauza funcției, nu a motivului sau a scopului',
     slug: 'saptezecidoi',
     desc: 'Oamenii cred că repetă anumite comportamente din cauza motivelor sau ...',
-    image: 'alegerea.jpg',
+    image: 'comportament_repetitie.jpg',
     date: '22 Apr',
     index: 72
   },
