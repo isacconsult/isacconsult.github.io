@@ -583,6 +583,22 @@ const articleData = [
     date: '23 Apr',
     index: 73
   },
+  {
+    title: 'Relațiile văzute prin gândirea în variante',
+    slug: 'saptezecipatru',
+    desc: 'Relațiile sunt adesea construite pe așteptări, speranțe și convingeri ...',
+    image: 'relatii_variante.jpg',
+    date: '23 Apr',
+    index: 74
+  },
+  {
+    title: 'Cum îți creezi realitatea',
+    slug: 'saptezecicinci',
+    desc: 'Oamenii cred că traiesc într-o realitate obiectivă, stabilă și identică pentru toți ...',
+    image: 'realitate_creata.jpg',
+    date: '23 Apr',
+    index: 75
+  },
 ]
 
 export default articleData;

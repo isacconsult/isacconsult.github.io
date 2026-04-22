@@ -76,7 +76,8 @@ export const navigationItems = [
   { position: 71, name: 'Comportamentele au mai multe funcții', url: `${siteUrl}/articole/saptezeciunu` },
   { position: 72, name: 'Comportamentul se repetă din cauza funcției, nu a motivului sau a scopului', url: `${siteUrl}/articole/saptezecidoi` },
   { position: 73, name: 'Îți propui ceva și începi, dar continui doar dacă îți iese ceva din asta', url: `${siteUrl}/articole/saptezecitrei` },
-  
+  { position: 74, name: 'Relațiile văzute prin gândirea în variante', url: `${siteUrl}/articole/saptezecipatru` },
+  { position: 75, name: 'Cum îți creezi realitatea', url: `${siteUrl}/articole/saptezecicinci` },
 ];
 
 export const siteNavScript = {

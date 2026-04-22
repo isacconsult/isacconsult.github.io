@@ -21,7 +21,7 @@ const Saptezecitrei = () => {
         Dacă nu, comportamentul va fi abandonat sau înlocuit.</p>   
       <p style={{ marginBottom: "15px"}} />
       <p>De exemplu, o persoană își poate propune să spună adevărul într-o situație dificilă.
-        Dacă după acest comportament este acceptată, înțeleasă sau se simte mai bine, există șanse mari sã continue să fie sinceră. 
+        Dacă după acest comportament este acceptată, înțeleasă sau se simte mai bine, există șanse mari să continue să fie sinceră. 
         În schimb, dacă este criticată, respinsă sau apare un disconfort puternic, este foarte probabil să revina la comportamentul anterior, 
         chiar dacă scopul inițial era diferit.</p>   
       <p style={{ marginBottom: "15px"}} />
