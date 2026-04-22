@@ -575,6 +575,14 @@ const articleData = [
     date: '22 Apr',
     index: 72
   },
+  {
+    title: 'Îți propui ceva și începi, dar continui doar dacă îți iese ceva din asta',
+    slug: 'saptezecitrei',
+    desc: 'Oamenii cred că schimbarea apare atunci când își stabilesc un scop ...',
+    image: 'inceput_functionare.jpg',
+    date: '23 Apr',
+    index: 73
+  },
 ]
 
 export default articleData;

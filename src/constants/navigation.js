@@ -75,6 +75,7 @@ export const navigationItems = [
   { position: 70, name: 'Motivul te minte, funcția nu', url: `${siteUrl}/articole/saptezeci` },
   { position: 71, name: 'Comportamentele au mai multe funcții', url: `${siteUrl}/articole/saptezeciunu` },
   { position: 72, name: 'Comportamentul se repetă din cauza funcției, nu a motivului sau a scopului', url: `${siteUrl}/articole/saptezecidoi` },
+  { position: 73, name: 'Îți propui ceva și începi, dar continui doar dacă îți iese ceva din asta', url: `${siteUrl}/articole/saptezecitrei` },
   
 ];
 
