@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.332d0ad4.js",
+    "main.js": "/static/js/main.e286e00c.js",
     "static/js/4947.b24245e8.chunk.js": "/static/js/4947.b24245e8.chunk.js",
     "static/js/4337.aba80ad1.chunk.js": "/static/js/4337.aba80ad1.chunk.js",
     "static/js/5506.cd313693.chunk.js": "/static/js/5506.cd313693.chunk.js",
@@ -56,8 +56,10 @@
     "static/js/602.87c39f09.chunk.js": "/static/js/602.87c39f09.chunk.js",
     "static/js/9654.e78da0fd.chunk.js": "/static/js/9654.e78da0fd.chunk.js",
     "static/js/9467.d9576763.chunk.js": "/static/js/9467.d9576763.chunk.js",
+    "static/js/9741.f293e9d5.chunk.js": "/static/js/9741.f293e9d5.chunk.js",
     "static/js/9771.19e71e85.chunk.js": "/static/js/9771.19e71e85.chunk.js",
-    "static/js/4495.ed7ec707.chunk.js": "/static/js/4495.ed7ec707.chunk.js",
+    "static/js/8843.f87e7738.chunk.js": "/static/js/8843.f87e7738.chunk.js",
+    "static/js/4495.fda78563.chunk.js": "/static/js/4495.fda78563.chunk.js",
     "static/js/2497.59306852.chunk.js": "/static/js/2497.59306852.chunk.js",
     "static/js/1821.457f785f.chunk.js": "/static/js/1821.457f785f.chunk.js",
     "static/js/8793.2c6659cd.chunk.js": "/static/js/8793.2c6659cd.chunk.js",
@@ -120,6 +122,7 @@
     "static/media/comportamente_viitor.jpg": "/static/media/comportamente_viitor.340838b7821c990b0b13.jpg",
     "static/media/img-3.jpg": "/static/media/img-3.21184eb7d3d2ffca2abf.jpg",
     "static/media/alegerea.jpg": "/static/media/alegerea.f1e4bd3b5b8daba6c41e.jpg",
+    "static/media/realitate_creata.jpg": "/static/media/realitate_creata.c3e0707e9428c709f149.jpg",
     "static/media/adaptare_mediu.jpg": "/static/media/adaptare_mediu.3d43e1db7fd73776adc6.jpg",
     "static/media/stabilitate_emotionala.jpg": "/static/media/stabilitate_emotionala.a16e56c73c3fac8dafb6.jpg",
     "static/media/manifest.jpg": "/static/media/manifest.366945419a775f5f9619.jpg",
@@ -133,6 +136,7 @@
     "static/media/putere_agresiune.jpg": "/static/media/putere_agresiune.8243026642d6d8067c47.jpg",
     "static/media/old1.jpg": "/static/media/old1.92109b27b95e62dafd54.jpg",
     "static/media/alte_relatii.jpg": "/static/media/alte_relatii.4da5002152976d44d323.jpg",
+    "static/media/relatii_variante.jpg": "/static/media/relatii_variante.f27a12fa3a964f752680.jpg",
     "static/media/relatii_conflictuale.jpg": "/static/media/relatii_conflictuale.894f4e4033f50c9cf06a.jpg",
     "static/media/gandire_probleme.jpg": "/static/media/gandire_probleme.5fd9cd6889fefd68e437.jpg",
     "static/media/relatie_buna.jpg": "/static/media/relatie_buna.0e9bb5c38c22c13c3130.jpg",
@@ -201,7 +205,7 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.332d0ad4.js.map": "/static/js/main.332d0ad4.js.map",
+    "main.e286e00c.js.map": "/static/js/main.e286e00c.js.map",
     "4947.b24245e8.chunk.js.map": "/static/js/4947.b24245e8.chunk.js.map",
     "4337.aba80ad1.chunk.js.map": "/static/js/4337.aba80ad1.chunk.js.map",
     "5506.cd313693.chunk.js.map": "/static/js/5506.cd313693.chunk.js.map",
@@ -256,8 +260,10 @@
     "602.87c39f09.chunk.js.map": "/static/js/602.87c39f09.chunk.js.map",
     "9654.e78da0fd.chunk.js.map": "/static/js/9654.e78da0fd.chunk.js.map",
     "9467.d9576763.chunk.js.map": "/static/js/9467.d9576763.chunk.js.map",
+    "9741.f293e9d5.chunk.js.map": "/static/js/9741.f293e9d5.chunk.js.map",
     "9771.19e71e85.chunk.js.map": "/static/js/9771.19e71e85.chunk.js.map",
-    "4495.ed7ec707.chunk.js.map": "/static/js/4495.ed7ec707.chunk.js.map",
+    "8843.f87e7738.chunk.js.map": "/static/js/8843.f87e7738.chunk.js.map",
+    "4495.fda78563.chunk.js.map": "/static/js/4495.fda78563.chunk.js.map",
     "2497.59306852.chunk.js.map": "/static/js/2497.59306852.chunk.js.map",
     "1821.457f785f.chunk.js.map": "/static/js/1821.457f785f.chunk.js.map",
     "8793.2c6659cd.chunk.js.map": "/static/js/8793.2c6659cd.chunk.js.map",
@@ -278,6 +284,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.332d0ad4.js"
+    "static/js/main.e286e00c.js"
   ]
 }
