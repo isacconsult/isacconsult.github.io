@@ -599,6 +599,30 @@ const articleData = [
     date: '23 Apr',
     index: 75
   },
+  {
+    title: 'Niveluri diferite în conflict și dificultatea rezolvării (bio-psiho-social)',
+    slug: 'saptezecisase',
+    desc: 'În interacțiunile umane, conflictele sunt frecvente și aparent greu de rezolvat.',
+    image: 'niveluri_conflict.jpg',
+    date: '24 Apr',
+    index: 76
+  },
+  {
+    title: 'Aplicarea modelului bio-psiho-social în comunicare și luarea deciziilor',
+    slug: 'saptezecisapte',
+    desc: 'Modelul bio-psiho-social oferă un cadru complex pentru înțelegerea comportamentului uman ...',
+    image: 'model_bio_psiho_social.jpg',
+    date: '24 Apr',
+    index: 77
+  },
+  {
+    title: 'Contextul similar activează comportamentele deja învățate',
+    slug: 'saptezeciopt',
+    desc: 'Oamenii cred, de cele mai multe ori, că reacțiile lor apar în funcție de situația prezentă ...',
+    image: 'context_similar.jpg',
+    date: '25 Apr',
+    index: 78
+  },
 ]
 
 export default articleData;

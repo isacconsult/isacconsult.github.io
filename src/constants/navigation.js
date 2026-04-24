@@ -78,6 +78,9 @@ export const navigationItems = [
   { position: 73, name: 'Îți propui ceva și începi, dar continui doar dacă îți iese ceva din asta', url: `${siteUrl}/articole/saptezecitrei` },
   { position: 74, name: 'Relațiile văzute prin gândirea în variante', url: `${siteUrl}/articole/saptezecipatru` },
   { position: 75, name: 'Cum îți creezi realitatea', url: `${siteUrl}/articole/saptezecicinci` },
+  { position: 76, name: 'Niveluri diferite în conflict și dificultatea rezolvării (bio-psiho-social)', url: `${siteUrl}/articole/saptezecisase` },
+  { position: 77, name: 'Aplicarea modelului bio-psiho-social în comunicare și luarea deciziilor', url: `${siteUrl}/articole/saptezecisapte` },
+  { position: 78, name: 'Contextul similar activează comportamentele deja învățate', url: `${siteUrl}/articole/saptezeciopt` },
 ];
 
 export const siteNavScript = {
