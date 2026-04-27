@@ -81,6 +81,9 @@ export const navigationItems = [
   { position: 76, name: 'Niveluri diferite în conflict și dificultatea rezolvării (bio-psiho-social)', url: `${siteUrl}/articole/saptezecisase` },
   { position: 77, name: 'Aplicarea modelului bio-psiho-social în comunicare și luarea deciziilor', url: `${siteUrl}/articole/saptezecisapte` },
   { position: 78, name: 'Contextul similar activează comportamentele deja învățate', url: `${siteUrl}/articole/saptezeciopt` },
+  { position: 79, name: 'Funcționează vs. e bine', url: `${siteUrl}/articole/saptezecinoua` },
+  { position: 80, name: 'Comportamentele care apar după perioada de inceput a unei relații', url: `${siteUrl}/articole/optzeci` },
+  { position: 81, name: 'La început alegi cine ești. După apare cine ești invățat să fii', url: `${siteUrl}/articole/optzeciunu` },
 ];
 
 export const siteNavScript = {

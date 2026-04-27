@@ -623,6 +623,30 @@ const articleData = [
     date: '25 Apr',
     index: 78
   },
+  {
+    title: 'Funcționează vs. e bine',
+    slug: 'saptezecinoua',
+    desc: 'O confuzie frecventă în comportamentul uman este între ceea ce ...',
+    image: 'functioneaza_ebine.jpg',
+    date: '26 Apr',
+    index: 79
+  },
+  {
+    title: 'Comportamentele care apar după perioada de început a unei relații',
+    slug: 'optzeci',
+    desc: 'nu sunt create în acel moment, ci sunt rezultatul a ceea ce persoana a învățat înainte ...',
+    image: 'comportament_inceput.jpg',
+    date: '26 Apr',
+    index: 80
+  },
+  {
+    title: 'La început alegi cine ești. După apare cine ești invățat să fii',
+    slug: 'optzeciunu',
+    desc: 'În orice relație - personală, socială sau profesională - oamenii observă o diferență ...',
+    image: 'alegere_invatare.jpg',
+    date: '27 Apr',
+    index: 81
+  },
 ]
 
 export default articleData;
