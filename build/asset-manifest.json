@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69ca0ac1.css",
-    "main.js": "/static/js/main.e7c389d0.js",
+    "main.js": "/static/js/main.e21f9798.js",
     "static/js/4947.b24245e8.chunk.js": "/static/js/4947.b24245e8.chunk.js",
     "static/js/4337.aba80ad1.chunk.js": "/static/js/4337.aba80ad1.chunk.js",
     "static/js/5506.cd313693.chunk.js": "/static/js/5506.cd313693.chunk.js",
@@ -30,6 +30,8 @@
     "static/js/4380.4040d602.chunk.js": "/static/js/4380.4040d602.chunk.js",
     "static/js/4902.c783350e.chunk.js": "/static/js/4902.c783350e.chunk.js",
     "static/js/7436.5dae601d.chunk.js": "/static/js/7436.5dae601d.chunk.js",
+    "static/js/2581.5d42f7f4.chunk.js": "/static/js/2581.5d42f7f4.chunk.js",
+    "static/js/3171.e947b9a3.chunk.js": "/static/js/3171.e947b9a3.chunk.js",
     "static/js/7757.9678e7aa.chunk.js": "/static/js/7757.9678e7aa.chunk.js",
     "static/js/5737.dd4f06d4.chunk.js": "/static/js/5737.dd4f06d4.chunk.js",
     "static/js/5232.03b75556.chunk.js": "/static/js/5232.03b75556.chunk.js",
@@ -58,6 +60,7 @@
     "static/js/9467.d9576763.chunk.js": "/static/js/9467.d9576763.chunk.js",
     "static/js/9741.f293e9d5.chunk.js": "/static/js/9741.f293e9d5.chunk.js",
     "static/js/9771.19e71e85.chunk.js": "/static/js/9771.19e71e85.chunk.js",
+    "static/js/2522.f508de24.chunk.js": "/static/js/2522.f508de24.chunk.js",
     "static/js/9006.40ddea52.chunk.js": "/static/js/9006.40ddea52.chunk.js",
     "static/js/8843.f87e7738.chunk.js": "/static/js/8843.f87e7738.chunk.js",
     "static/js/8676.1537da8f.chunk.js": "/static/js/8676.1537da8f.chunk.js",
@@ -111,11 +114,13 @@
     "static/media/minciuna.jpg": "/static/media/minciuna.e7b787861bc6f4d3e484.jpg",
     "static/media/motivul_minte.jpg": "/static/media/motivul_minte.acfed547786f0105f49e.jpg",
     "static/media/despartire.jpg": "/static/media/despartire.609861ad1c5215a2fb91.jpg",
+    "static/media/comportament_inceput.jpg": "/static/media/comportament_inceput.2a7a5f397de8bb9dd1d1.jpg",
     "static/media/child.jpg": "/static/media/child.c90c6c973d5195f6a799.jpg",
     "static/media/isac_creion.jpg": "/static/media/isac_creion.7c006971b0a96fe17a63.jpg",
     "static/media/om.jpg": "/static/media/om.8b4c6907c7115a5b5a68.jpg",
     "static/media/miscare.jpg": "/static/media/miscare.a9c889d8b4ec82e23815.jpg",
     "static/media/consultanta.jpg": "/static/media/consultanta.3a21f7a1277cef619e1b.jpg",
+    "static/media/functioneaza_ebine.jpg": "/static/media/functioneaza_ebine.af737192871a33ff082c.jpg",
     "static/media/parinti.jpg": "/static/media/parinti.570bd89f994110045b9f.jpg",
     "static/media/anxietate.jpg": "/static/media/anxietate.6d1556d674ce53cf5b3f.jpg",
     "static/media/creier_reglat.jpg": "/static/media/creier_reglat.8b17470b4b4168ff245a.jpg",
@@ -165,6 +170,7 @@
     "static/media/omul_nou.jpg": "/static/media/omul_nou.ccbbd45b3793e7b7bc6a.jpg",
     "static/media/model_bio_psiho_social.jpg": "/static/media/model_bio_psiho_social.a75e1f03f8b2e7f539f3.jpg",
     "static/media/viitor_actiuni.jpg": "/static/media/viitor_actiuni.13e32123680410a8ec8d.jpg",
+    "static/media/alegere_invatare.jpg": "/static/media/alegere_invatare.b803425c0a1859920793.jpg",
     "static/media/et-line.svg": "/static/media/et-line.613c7311d2d5a1dd7e49.svg",
     "static/media/victima.jpg": "/static/media/victima.b189a403e01cdea6b2cc.jpg",
     "static/media/slider_img2.jpg": "/static/media/slider_img2.3af7820a14d79de09717.jpg",
@@ -211,7 +217,7 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.69ca0ac1.css.map": "/static/css/main.69ca0ac1.css.map",
-    "main.e7c389d0.js.map": "/static/js/main.e7c389d0.js.map",
+    "main.e21f9798.js.map": "/static/js/main.e21f9798.js.map",
     "4947.b24245e8.chunk.js.map": "/static/js/4947.b24245e8.chunk.js.map",
     "4337.aba80ad1.chunk.js.map": "/static/js/4337.aba80ad1.chunk.js.map",
     "5506.cd313693.chunk.js.map": "/static/js/5506.cd313693.chunk.js.map",
@@ -240,6 +246,8 @@
     "4380.4040d602.chunk.js.map": "/static/js/4380.4040d602.chunk.js.map",
     "4902.c783350e.chunk.js.map": "/static/js/4902.c783350e.chunk.js.map",
     "7436.5dae601d.chunk.js.map": "/static/js/7436.5dae601d.chunk.js.map",
+    "2581.5d42f7f4.chunk.js.map": "/static/js/2581.5d42f7f4.chunk.js.map",
+    "3171.e947b9a3.chunk.js.map": "/static/js/3171.e947b9a3.chunk.js.map",
     "7757.9678e7aa.chunk.js.map": "/static/js/7757.9678e7aa.chunk.js.map",
     "5737.dd4f06d4.chunk.js.map": "/static/js/5737.dd4f06d4.chunk.js.map",
     "5232.03b75556.chunk.js.map": "/static/js/5232.03b75556.chunk.js.map",
@@ -268,6 +276,7 @@
     "9467.d9576763.chunk.js.map": "/static/js/9467.d9576763.chunk.js.map",
     "9741.f293e9d5.chunk.js.map": "/static/js/9741.f293e9d5.chunk.js.map",
     "9771.19e71e85.chunk.js.map": "/static/js/9771.19e71e85.chunk.js.map",
+    "2522.f508de24.chunk.js.map": "/static/js/2522.f508de24.chunk.js.map",
     "9006.40ddea52.chunk.js.map": "/static/js/9006.40ddea52.chunk.js.map",
     "8843.f87e7738.chunk.js.map": "/static/js/8843.f87e7738.chunk.js.map",
     "8676.1537da8f.chunk.js.map": "/static/js/8676.1537da8f.chunk.js.map",
@@ -293,6 +302,6 @@
   },
   "entrypoints": [
     "static/css/main.69ca0ac1.css",
-    "static/js/main.e7c389d0.js"
+    "static/js/main.e21f9798.js"
   ]
 }

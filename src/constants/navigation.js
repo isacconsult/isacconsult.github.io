@@ -82,8 +82,11 @@ export const navigationItems = [
   { position: 77, name: 'Aplicarea modelului bio-psiho-social în comunicare și luarea deciziilor', url: `${siteUrl}/articole/saptezecisapte` },
   { position: 78, name: 'Contextul similar activează comportamentele deja învățate', url: `${siteUrl}/articole/saptezeciopt` },
   { position: 79, name: 'Funcționează vs. e bine', url: `${siteUrl}/articole/saptezecinoua` },
-  { position: 80, name: 'Comportamentele care apar după perioada de inceput a unei relații', url: `${siteUrl}/articole/optzeci` },
-  { position: 81, name: 'La început alegi cine ești. După apare cine ești invățat să fii', url: `${siteUrl}/articole/optzeciunu` },
+  { position: 80, name: 'Comportamentele care apar după perioada de început a unei relații', url: `${siteUrl}/articole/optzeci` },
+  { position: 81, name: 'La început alegi cine ești. După apare cine ești învățat să fii', url: `${siteUrl}/articole/optzeciunu` },
+  { position: 82, name: 'Siguranța in relații', url: `${siteUrl}/articole/optzecidoi` },
+  { position: 83, name: 'Interacțiune vs construcție într-o relație', url: `${siteUrl}/articole/optzecitrei` },
+  { position: 84, name: 'Efectele punerii unei persoane în fața faptului împlinit', url: `${siteUrl}/articole/optzecipatru` },
 ];
 
 export const siteNavScript = {

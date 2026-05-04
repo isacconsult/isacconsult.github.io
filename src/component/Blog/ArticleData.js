@@ -647,6 +647,30 @@ const articleData = [
     date: '27 Apr',
     index: 81
   },
+  {
+    title: 'Siguranța in relații',
+    slug: 'optzecidoi',
+    desc: 'Siguranța în relații înseamnă ca oamenii să se simtă liniștiti unul lângă celălalt ...',
+    image: 'siguranta_relatii.jpg',
+    date: '3 Mai',
+    index: 82
+  },
+  {
+    title: 'Interacțiune vs construcție într-o relație',
+    slug: 'optzecitrei',
+    desc: 'În orice relație dintre doi oameni pot exista două niveluri diferite de funcționare ...',
+    image: 'interactiune_constructie.jpg',
+    date: '3 Mai',
+    index: 83
+  },
+  {
+    title: 'Efectele punerii unei persoane în fața faptului împlinit',
+    slug: 'optzecipatru',
+    desc: 'În relațiile dintre oameni, modul în care sunt luate deciziile influențează direct nivelul de ...',
+    image: 'faptul_implinit.jpg',
+    date: '3 Mai',
+    index: 84
+  },
 ]
 
 export default articleData;
